@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Inspiração - Sonoplastia</title>
+  
+  <!-- Fontes -->
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap" rel="stylesheet">
+  
+  <!-- Font Awesome para ícones -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+  
+  <!-- Estilos CSS -->
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/logo.css">
+  <link rel="stylesheet" href="css/inspiracao.css">
+</head>
+
+<body>
+  <!-- Cabeçalho -->
+  <header class="header">
+    <div class="container nav-container">
+      <div class="logo-container">
+        <div class="logo-icon">
+          <div class="sound-wave"></div>
+          <div class="sound-wave"></div>
+          <div class="sound-wave"></div>
+        </div>
+        <div class="logo-text">Sono<span>Plastia</span></div>
+      </div>
+      
+      <button class="mobile-menu-btn">
+        <i class="fas fa-bars"></i>
+      </button>
+      
+      <nav>
+        <ul class="nav-menu">
+          <li class="nav-item"><a href="index.html" class="nav-link">Início</a></li>
+          <li class="nav-item"><a href="sabado.html" class="nav-link">Sábado</a></li>
+          <li class="nav-item"><a href="domingo.html" class="nav-link">Domingo</a></li>
+          <li class="nav-item"><a href="quarta.html" class="nav-link">Quarta</a></li>
+          <li class="nav-item"><a href="louvores.html" class="nav-link">Louvores</a></li>
+          <li class="nav-item"><a href="videos.html" class="nav-link">Vídeos</a></li>
+          <li class="nav-item"><a href="sites.html" class="nav-link">Sites Úteis</a></li>
+          <li class="nav-item"><a href="inspiracao.html" class="nav-link active">Inspiração</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Conteúdo Principal -->
+  <main>
+    <div class="container">
+      <div class="page-header fade-in">
+        <h1>Inspiração</h1>
+        <p class="subtitle">Versos bíblicos e reflexões sobre música e adoração</p>
+      </div>
+      
+      <!-- Verso Bíblico em Destaque -->
+      <div class="verso-biblico-container fade-in">
+        <p id="verso-texto" class="verso-texto">"Louvem o Senhor com harpa; ofereçam-lhe música com instrumento de dez cordas. Cantem-lhe uma nova canção; toquem com habilidade ao aclamá-lo."</p>
+        <p id="verso-referencia" class="verso-referencia">Salmos 33:2-3</p>
+        
+        <div class="verso-navegacao">
+          <button id="verso-anterior" class="verso-btn"><i class="fas fa-chevron-left"></i></button>
+          <button id="verso-proximo" class="verso-btn"><i class="fas fa-chevron-right"></i></button>
+        </div>
+      </div>
+      
+      <!-- Filtros de Inspiração -->
+      <div class="inspiracao-filtros fade-in">
+        <button class="inspiracao-filtro-btn active" data-filter="all">Todos</button>
+        <button class="inspiracao-filtro-btn" data-filter="salmos">Salmos</button>
+        <button class="inspiracao-filtro-btn" data-filter="outros-livros">Outros Livros</button>
+        <button class="inspiracao-filtro-btn" data-filter="egw">Ellen G. White</button>
+        <button class="inspiracao-filtro-btn" data-filter="reflexoes">Reflexões</button>
+      </div>
+      
+      <!-- Grid de Cards de Inspiração -->
+      <div class="inspiracao-grid fade-in">
+        <!-- Salmos -->
+        <div class="inspiracao-card" data-category="salmos">
+          <span class="inspiracao-categoria">Salmos</span>
+          <p class="inspiracao-texto">Pôs um novo cântico na minha boca, um hino de louvor ao nosso Deus. Muitos verão isso e temerão, e confiarão no Senhor.</p>
+          <p class="inspiracao-referencia">Salmos 40:3</p>
+        </div>
+        
+        <div class="inspiracao-card" data-category="salmos">
+          <span class="inspiracao-categoria">Salmos</span>
+          <p class="inspiracao-texto">Meu coração está firme, ó Deus, meu coração está firme; cantarei e farei música.</p>
+          <p class="inspiracao-referencia">Salmos 57:7</p>
+        </div>
+        
+        <div class="inspiracao-card" data-category="salmos">
+          <span class="inspiracao-categoria">Salmos</span>
+          <p class="inspiracao-texto">Como é bom render graças ao Senhor e cantar louvores ao teu nome, ó Altíssimo, anunciar de manhã o teu amor leal e de noite a tua fidelidade, ao som da lira de dez cordas e da cítara, e da melodia da harpa.</p>
+          <p class="inspiracao-referencia">Salmos 92:1-3</p>
+        </div>
+        
+        <div class="inspiracao-card" data-category="salmos">
+          <span class="inspiracao-categoria">Salmos</span>
+          <p class="inspiracao-texto">Venham, cantemos ao Senhor com alegria, aclamemos a Rocha da nossa salvação. Vamos à presença dele com ações de graças; vamos aclamá-lo com cânticos de louvor.</p>
+          <p class="inspiracao-referencia">Salmos 95:1-2</p>
+        </div>
+        
+        <div class="inspiracao-card" data-category="salmos">
+          <span class="inspiracao-categoria">Salmos</span>
+          <p class="inspiracao-texto">Aclamem o Senhor todos os habitantes da terra, cantem louvores, alegrem-se e façam música. Façam música ao Senhor com a harpa, com a harpa e ao som de canções, com cornetas e ao som da trombeta; exultem diante do Senhor, o Rei.</p>
+          <p class="inspiracao-referencia">Salmos 98:4-6</p>
+        </div>
+        
+        <div class="inspiracao-card" data-category="salmos">
+          <span class="inspiracao-categoria">Salmos</span>
+          <p class="inspiracao-texto">Louvem-no ao som de trombeta, louvem-no com a lira e a harpa, louvem-no com tamborins e danças, louvem-no com instrumentos de cordas e com flautas, louvem-no com címbalos sonoros, louvem-no com címbalos ressonantes. Tudo o que tem vida louve o Senhor! Aleluia!</p>
+          <p class="inspiracao-referencia">Salmos 150:3-6</p>
+        </div>
+        
+        <!-- Outros Livros -->
+        <div class="inspiracao-card" data-category="outros-livros">
+          <span class="inspiracao-categoria">Outros Livros</span>
+          <p class="inspiracao-texto">Então Moisés e os israelitas entoaram este cântico ao Senhor: 'Cantarei ao Senhor, pois triunfou gloriosamente. Lançou ao mar o cavalo e o seu cavaleiro.'</p>
+          <p class="inspiracao-referencia">Êxodo 15:1</p>
+        </div>
+        
+        <div class="inspiracao-card" data-category="outros-livros">
+          <span class="inspiracao-categoria">Outros Livros</span>
+          <p class="inspiracao-texto">Os tocadores de trombeta e os cantores uniam-se num só som para louvarem e agradecerem ao Senhor. Ao som das trombetas, dos címbalos e de outros instrumentos, louvavam o Senhor, 'pois ele é bom; o seu amor dura para sempre'. Então uma nuvem encheu o templo do Senhor.</p>
+          <p class="inspiracao-referencia">2 Crônicas 5:13</p>
+        </div>
+        
+        <div class="inspiracao-card" data-category="outros-livros">
+          <span class="inspiracao-categoria">Outros Livros</span>
+          <p class="inspiracao-texto">Falando entre vós com salmos, entoando e louvando de coração ao Senhor com hinos e cânticos espirituais.</p>
+          <p class="inspiracao-referencia">Efésios 5:19</p>
+        </div>
+        
+        <div class="inspiracao-card" data-category="outros-livros">
+          <span class="inspiracao-categoria">Outros Livros</span>
+          <p class="inspiracao-texto">Habite ricamente em vocês a palavra de Cristo; ensinem e aconselhem-se uns aos outros com toda a sabedoria, e cantem salmos, hinos e cânticos espirituais com gratidão a Deus em seu coração.</p>
+          <p class="inspiracao-referencia">Colossenses 3:16</p>
+        </div>
+        
+        <!-- Ellen G. White -->
+        <div class="inspiracao-card citacao-egw" data-category="egw">
+          <span class="inspiracao-categoria">Ellen G. White</span>
+          <p class="inspiracao-texto">A música é um dos mais elevados dons de Deus ao homem e, quando consagrada a Ele, é um precioso auxílio na obra de vencer o mal.</p>
+          <p class="inspiracao-referencia">Ellen G. White</p>
+        </div>
+        
+        <div class="inspiracao-card citacao-egw" data-category="egw">
+          <span class="inspiracao-categoria">Ellen G. White</span>
+          <p class="inspiracao-texto">Que haja tempo para o cultivo da voz de modo que o louvor a Deus possa ser entoado em tons claros e suaves, não com aspereza e estridência que ofendem o ouvido.</p>
+          <p class="inspiracao-referencia">Ellen G. White</p>
+        </div>
+        
+        <div class="inspiracao-card citacao-egw" data-category="egw">
+          <span class="inspiracao-categoria">Ellen G. White</span>
+          <p class="inspiracao-texto">A música foi feita para servir a um propósito santo, para elevar os pensamentos àquilo que é puro, nobre e edificante, e despertar na alma devoção e gratidão a Deus.</p>
+          <p class="inspiracao-referencia">Ellen G. White</p>
+        </div>
+        
+        <div class="inspiracao-card citacao-egw" data-category="egw">
+          <span class="inspiracao-categoria">Ellen G. White</span>
+          <p class="inspiracao-texto">A música é um dom maravilhoso de Deus, designado a elevar os pensamentos a temas altos e nobres, a inspirar e elevar a alma.</p>
+          <p class="inspiracao-referencia">Ellen G. White</p>
+        </div>
+        
+        <!-- Reflexões -->
+        <div class="inspiracao-card reflexao-sonoplastia" data-category="reflexoes">
+          <span class="inspiracao-categoria">Reflexão</span>
+          <p class="inspiracao-texto">O ministério da sonoplastia não é apenas técnico, mas também espiritual. Cada ajuste de volume, cada nota musical, cada vídeo exibido deve ter o propósito de glorificar a Deus e edificar a igreja.</p>
+          <p class="inspiracao-referencia">Ministério da Sonoplastia</p>
+        </div>
+        
+        <div class="inspiracao-card reflexao-sonoplastia" data-category="reflexoes">
+          <span class="inspiracao-categoria">Reflexão</span>
+          <p class="inspiracao-texto">Assim como os levitas eram responsáveis pela música no templo, os sonoplastas são os levitas modernos, facilitando a adoração através da tecnologia e dos recursos audiovisuais.</p>
+          <p class="inspiracao-referencia">Ministério da Sonoplastia</p>
+        </div>
+        
+        <div class="inspiracao-card reflexao-sonoplastia" data-category="reflexoes">
+          <span class="inspiracao-categoria">Reflexão</span>
+          <p class="inspiracao-texto">A excelência técnica na sonoplastia é uma forma de honrar a Deus. Quando nos esforçamos para oferecer o melhor som, a melhor imagem e a melhor experiência de adoração, estamos oferecendo nosso melhor ao Senhor.</p>
+          <p class="inspiracao-referencia">Ministério da Sonoplastia</p>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <!-- Rodapé -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-content">
+        <div class="footer-section">
+          <h3 class="footer-title">Sonoplastia</h3>
+          <p>Central de recursos para o ministério de sonoplastia da Igreja Adventista.</p>
+        </div>
+        
+        <div class="footer-section">
+          <h3 class="footer-title">Links Rápidos</h3>
+          <ul class="footer-links">
+            <li class="footer-link"><a href="index.html">Início</a></li>
+            <li class="footer-link"><a href="sabado.html">Programação de Sábado</a></li>
+            <li class="footer-link"><a href="louvores.html">Louvores</a></li>
+            <li class="footer-link"><a href="videos.html">Vídeos</a></li>
+            <li class="footer-link"><a href="inspiracao.html">Inspiração</a></li>
+          </ul>
+        </div>
+        
+        <div class="footer-section">
+          <h3 class="footer-title">Contato</h3>
+          <ul class="footer-links">
+            <li class="footer-link"><i class="fas fa-envelope"></i> sonoplastia@igreja.org</li>
+            <li class="footer-link"><i class="fas fa-phone"></i> (00) 00000-0000</li>
+          </ul>
+        </div>
+      </div>
+      
+      <div class="footer-bottom">
+        <p>&copy; 2025 Sonoplastia - Igreja Adventista. Todos os direitos reservados.</p>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Scripts JavaScript -->
+  <script src="js/main.js"></script>
+  <script src="js/versos-biblicos.js"></script>
+  <script>
+    // Script para filtrar os cards de inspiração
+    document.addEventListener('DOMContentLoaded', function() {
+      const filterButtons = document.querySelectorAll('.inspiracao-filtro-btn');
+      const cards = document.querySelectorAll('.inspiracao-card');
+      
+      filterButtons.forEach(button => {
+        button.addEventListener('click', function() {
+          // Remove a classe active de todos os botões
+          filterButtons.forEach(btn => btn.classList.remove('active'));
+          
+          // Adiciona a classe active ao botão clicado
+          this.classList.add('active');
+          
+          // Obtém a categoria a ser filtrada
+          const filter = this.getAttribute('data-filter');
+          
+          // Filtra os cards
+          cards.forEach(card => {
+            if (filter === 'all') {
+              card.style.display = 'block';
+            } else {
+              const category = card.getAttribute('data-category');
+              if (category === filter) {
+                card.style.display = 'block';
+              } else {
+                card.style.display = 'none';
+              }
+            }
+          });
+        });
+      });
+    });
+  </script>
+</body>
+
+</html>
+

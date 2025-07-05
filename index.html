@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sonoplastia - Igreja Adventista</title>
+  
+  <!-- Fontes -->
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap" rel="stylesheet">
+  
+  <!-- Font Awesome para ícones -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+  
+  <!-- Estilos CSS -->
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/logo.css">
+  <link rel="stylesheet" href="css/home.css">
+  <link rel="stylesheet" href="css/inspiracao.css">
+</head>
+
+<body>
+  <!-- Cabeçalho -->
+  <header class="header">
+    <div class="container nav-container">
+      <div class="logo-container">
+        <div class="logo-icon">
+          <div class="sound-wave"></div>
+          <div class="sound-wave"></div>
+          <div class="sound-wave"></div>
+        </div>
+        <div class="logo-text">Sono<span>Plastia</span></div>
+      </div>
+      
+      <button class="mobile-menu-btn">
+        <i class="fas fa-bars"></i>
+      </button>
+      
+      <nav>
+        <ul class="nav-menu">
+          <li class="nav-item"><a href="index.html" class="nav-link active">Início</a></li>
+          <li class="nav-item"><a href="sabado.html" class="nav-link">Sábado</a></li>
+          <li class="nav-item"><a href="domingo.html" class="nav-link">Domingo</a></li>
+          <li class="nav-item"><a href="quarta.html" class="nav-link">Quarta</a></li>
+          <li class="nav-item"><a href="louvores.html" class="nav-link">Louvores</a></li>
+          <li class="nav-item"><a href="videos.html" class="nav-link">Vídeos</a></li>
+          <li class="nav-item"><a href="sites.html" class="nav-link">Sites Úteis</a></li>
+          <li class="nav-item"><a href="curso.html" class="nav-link">Som de Fé</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Conteúdo Principal -->
+  <main>
+    <div class="container">
+      <!-- Seção de Boas-vindas -->
+      <section class="welcome-section fade-in">
+        <h1>Bem-vindo à Central de Sonoplastia</h1>
+        <p class="subtitle">Recursos e ferramentas para o ministério de sonoplastia da Igreja Adventista</p>
+        
+        <!-- Verso Bíblico em Destaque -->
+        <div class="verso-biblico-container">
+          <p id="verso-texto" class="verso-texto">"Louvem o Senhor com harpa; ofereçam-lhe música com instrumento de dez cordas. Cantem-lhe uma nova canção; toquem com habilidade ao aclamá-lo."</p>
+          <p id="verso-referencia" class="verso-referencia">Salmos 33:2-3</p>
+          
+          <div class="verso-navegacao">
+            <button id="verso-anterior" class="verso-btn"><i class="fas fa-chevron-left"></i></button>
+            <button id="verso-proximo" class="verso-btn"><i class="fas fa-chevron-right"></i></button>
+          </div>
+        </div>
+      </section>
+      
+      <!-- Seção de Acesso Rápido -->
+      <section class="quick-access-section fade-in">
+        <h2>Acesso Rápido</h2>
+        <div class="card-grid">
+          <!-- Card Programações -->
+          <div class="card">
+            <div class="card-icon">
+              <i class="fas fa-calendar-alt"></i>
+            </div>
+            <h3>Programações</h3>
+            <p>Acesse as programações dos cultos de sábado, domingo e quarta-feira.</p>
+            <div class="card-buttons">
+              <a href="sabado.html" class="btn">Sábado</a>
+              <a href="domingo.html" class="btn">Domingo</a>
+              <a href="quarta.html" class="btn">Quarta</a>
+            </div>
+          </div>
+          
+          <!-- Card Louvores -->
+          <div class="card">
+            <div class="card-icon">
+              <i class="fas fa-music"></i>
+            </div>
+            <h3>Louvores</h3>
+            <p>Encontre partituras, cifras e playlists para os momentos de louvor.</p>
+            <a href="louvores.html" class="btn btn-full">Acessar Louvores</a>
+          </div>
+          
+          <!-- Card Vídeos -->
+          <div class="card">
+            <div class="card-icon">
+              <i class="fas fa-video"></i>
+            </div>
+            <h3>Vídeos</h3>
+            <p>Galeria de vídeos frequentemente utilizados nos cultos e eventos.</p>
+            <a href="videos.html" class="btn btn-full">Acessar Vídeos</a>
+          </div>
+          
+          <!-- Card Sites Úteis -->
+          <div class="card">
+            <div class="card-icon">
+              <i class="fas fa-link"></i>
+            </div>
+            <h3>Sites Úteis</h3>
+            <p>Links para recursos, ferramentas e materiais de referência.</p>
+            <a href="sites.html" class="btn btn-full">Acessar Sites</a>
+          </div>
+          
+          <!-- Card Inspiração -->
+          <div class="card">
+            <div class="card-icon">
+              <i class="fas fa-book-open"></i>
+            </div>
+            <h3>Inspiração</h3>
+            <p>Versos bíblicos e reflexões sobre música e adoração.</p>
+            <a href="inspiracao.html" class="btn btn-full">Acessar Inspiração</a>
+          </div>
+        </div>
+      </section>
+      
+      <!-- Seção de Informações Importantes -->
+      <section class="important-info-section fade-in">
+        <h2>Informações Importantes</h2>
+        <div class="info-card">
+          <div class="info-icon">
+            <i class="fas fa-info-circle"></i>
+          </div>
+          <div class="info-content">
+            <h3>Dicas para Sonoplastas</h3>
+            <ul>
+              <li>Chegue com antecedência para testar os equipamentos</li>
+              <li>Mantenha uma lista atualizada dos louvores mais utilizados</li>
+              <li>Verifique o funcionamento dos microfones antes do culto</li>
+              <li>Ajuste o volume de acordo com o tamanho do ambiente</li>
+              <li>Tenha sempre pilhas reservas para os equipamentos sem fio</li>
+            </ul>
+          </div>
+        </div>
+      </section>
+    </div>
+  </main>
+
+  <!-- Rodapé -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-content">
+        <div class="footer-section">
+          <h3 class="footer-title">Sonoplastia</h3>
+          <p>Central de recursos para o ministério de sonoplastia da Igreja Adventista.</p>
+        </div>
+        
+        <div class="footer-section">
+          <h3 class="footer-title">Links Rápidos</h3>
+          <ul class="footer-links">
+            <li class="footer-link"><a href="index.html">Início</a></li>
+            <li class="footer-link"><a href="sabado.html">Programação de Sábado</a></li>
+            <li class="footer-link"><a href="louvores.html">Louvores</a></li>
+            <li class="footer-link"><a href="videos.html">Vídeos</a></li>
+            <li class="footer-link"><a href="inspiracao.html">Inspiração</a></li>
+          </ul>
+        </div>
+        
+        <div class="footer-section">
+          <h3 class="footer-title">Contato</h3>
+          <ul class="footer-links">
+            <li class="footer-link"><i class="fas fa-envelope"></i> sonoplastia@igreja.org</li>
+            <li class="footer-link"><i class="fas fa-phone"></i> (00) 00000-0000</li>
+          </ul>
+        </div>
+      </div>
+      
+      <div class="footer-bottom">
+        <p>&copy; 2025 Sonoplastia - Igreja Adventista. Todos os direitos reservados.</p>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Scripts JavaScript -->
+  <script src="js/main.js"></script>
+  <script src="js/versos-biblicos.js"></script>
+</body>
+
+</html>
+

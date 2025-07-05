@@ -1,0 +1,240 @@
+/* Estilos específicos para a página de programação de sábado */
+
+/* Cabeçalho da página */
+.page-header {
+  text-align: center;
+  padding: var(--spacing-xl) 0 var(--spacing-lg);
+}
+
+.page-header h1 {
+  font-size: 2.5rem;
+  margin-bottom: var(--spacing-sm);
+  color: var(--primary-color);
+}
+
+.subtitle {
+  font-size: 1.2rem;
+  color: var(--text-secondary);
+}
+
+/* Container da programação */
+.program-container {
+  margin-bottom: var(--spacing-xl);
+}
+
+/* Grid para as duas colunas da programação */
+.program-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: var(--spacing-lg);
+  margin-bottom: var(--spacing-xl);
+}
+
+/* Seção de programação */
+.program-section {
+  background-color: var(--white);
+  border-radius: var(--border-radius-lg);
+  box-shadow: 0 4px 12px var(--shadow);
+  overflow: hidden;
+}
+
+/* Cabeçalho da seção de programação */
+.program-header {
+  background-color: var(--primary-color);
+  color: var(--white);
+  padding: var(--spacing-md) var(--spacing-lg);
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-md);
+}
+
+.program-icon {
+  font-size: 1.8rem;
+  color: var(--accent-color);
+}
+
+.program-header h2 {
+  margin: 0;
+  color: var(--white);
+  font-size: 1.5rem;
+}
+
+/* Lista de itens da programação */
+.program-list {
+  list-style-type: none;
+  padding: var(--spacing-md) var(--spacing-lg);
+}
+
+.program-list li {
+  padding: var(--spacing-sm) 0;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+.program-list li:last-child {
+  border-bottom: none;
+}
+
+.program-item-title {
+  font-weight: 500;
+  display: block;
+  margin-bottom: var(--spacing-xs);
+}
+
+.program-item-resources {
+  margin-top: var(--spacing-xs);
+  padding-left: var(--spacing-md);
+}
+
+.resource-link {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--spacing-xs);
+  color: var(--secondary-color);
+  font-size: 0.9rem;
+  transition: color var(--transition-fast);
+}
+
+.resource-link:hover {
+  color: var(--primary-color);
+  text-decoration: underline;
+}
+
+/* Seção de vídeos */
+.videos-section {
+  margin-top: var(--spacing-xl);
+}
+
+.section-header {
+  text-align: center;
+  margin-bottom: var(--spacing-lg);
+}
+
+.section-header h2 {
+  font-size: 2rem;
+  margin-bottom: var(--spacing-xs);
+  color: var(--primary-color);
+  position: relative;
+}
+
+.section-header h2::after {
+  content: '';
+  position: absolute;
+  bottom: -10px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 60px;
+  height: 3px;
+  background-color: var(--accent-color);
+}
+
+.section-header p {
+  color: var(--text-secondary);
+  margin-top: var(--spacing-md);
+}
+
+/* Grid de vídeos */
+.video-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: var(--spacing-md);
+}
+
+.video-container {
+  position: relative;
+  cursor: pointer;
+  transition: transform var(--transition-normal);
+  overflow: hidden;
+  border-radius: var(--border-radius-lg);
+  box-shadow: 0 2px 6px var(--shadow);
+}
+
+.video-container:hover {
+  transform: scale(1.05);
+}
+
+.video-container iframe {
+  width: 100%;
+  aspect-ratio: 16/9;
+  border: none;
+  display: block;
+}
+
+.video-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.2);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 0;
+  transition: opacity var(--transition-normal);
+}
+
+.video-container:hover .video-overlay {
+  opacity: 1;
+}
+
+.video-overlay i {
+  font-size: 3rem;
+  color: var(--white);
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+/* Modal de vídeo em tela cheia */
+.fullscreen {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.9);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.fullscreen iframe {
+  width: 90vw;
+  height: 50vw;
+  max-width: 1200px;
+  max-height: 675px;
+}
+
+.close-btn {
+  position: absolute;
+  top: 1rem;
+  right: 2rem;
+  font-size: 2rem;
+  color: var(--white);
+  cursor: pointer;
+  transition: transform var(--transition-fast);
+}
+
+.close-btn:hover {
+  transform: scale(1.2);
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+  .program-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .video-grid {
+    grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+  }
+  
+  .fullscreen iframe {
+    width: 95vw;
+    height: 60vw;
+  }
+  
+  .page-header h1 {
+    font-size: 2rem;
+  }
+}
+
