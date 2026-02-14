@@ -1,0 +1,26 @@
+.curso-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 16px;
+  background: rgba(217, 130, 43, 0.15);
+  color: var(--color-accent);
+}
+
+.curso-icon svg {
+  width: 60%;
+  height: 60%;
+}
+
+.note-card {
+  border: 1px solid var(--color-outline);
+  border-radius: var(--radius-md);
+  padding: var(--space-4);
+  background: var(--color-surface-strong);
+  display: grid;
+  gap: var(--space-2);
+}
+
+.note-card h4 {
+  font-size: 1rem;
+}

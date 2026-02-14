@@ -1,0 +1,555 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+	<meta charset="utf-8">
+	<title>Emblema D1 :: MDAWiki - Tudo sobre Desbravadores e Aventureiros</title>
+
+	<meta name="keywords" content="Emblema D1" />
+	<meta name="description" content="Emblema D1">
+	<meta name="subject" content="Wikipedia sobre Desbravadores e Aventureiros">
+	<meta name="language" content="pt-BR">
+	<meta name="robots" content="index,follow" />
+	<meta name="revised" content="2022-08-04 09:49:25" />
+	<meta name="author" content="Mayco Rolbuche, mayco_rolbuche@hotmail.com">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="reply-to" content="contato@mda.wiki.br">
+	<meta name="url" content="https://mda.wiki.br/">
+	<meta name="identifier-URL" content="https://mda.wiki.br/">
+
+		<meta name="og:title" content="Emblema D1" />
+	<meta name="og:type" content="website" />
+	<meta name="og:url" content="https://mda.wiki.br/imagem@Emblema_D1/" />
+	<meta name="og:site_name" content="MDA Wiki" />
+	<meta name="og:description" content="Emblema D1">
+	<meta name="og:email" content="contato@mda.wiki.br" />
+
+			<meta name="og:image" content="https://mda.wiki.br/site/@imgs_wiki_cp/imagem@emblema_d1.svg" />
+		<meta property="og:image:type" content="svg+xml">
+		<meta property="og:image:width" content="33733334">
+		<meta property="og:image:height" content="344">
+	
+
+		<meta property="fb:admins" content="mdawiki" />
+	<meta name="fb:page_id" content="1165269506819431" />
+
+		<meta name="twitter:title" content="Emblema D1" />
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:url" content="https://mda.wiki.br/imagem@Emblema_D1/" />
+	<meta name="twitter:description" content="Emblema D1">
+			<meta name="twitter:image" content="https://mda.wiki.br/site/@imgs_wiki_mini/imagem@emblema_d1.svg" />
+	
+
+		<meta name="google-analytics" content="UA-75685104-1" />
+
+	<link rel="shortcut icon" href="https://mda.wiki.br/site/@imgs/favicon.png">
+
+	<script>
+		window.history.replaceState('HTML', document.title, "/imagem@Emblema_D1/");
+		const base_url = "https://mda.wiki.br/site/";
+		const url_lib = "https://mda.wiki.br/site/@lib/";
+		const url_page = "https://mda.wiki.br/imagem@emblema_d1/";
+		const url = "https://mda.wiki.br/";
+
+						(function(i, s, o, g, r, a, m) {
+					i['GoogleAnalyticsObject'] = r;
+					i[r] = i[r] || function() {
+						(i[r].q = i[r].q || []).push(arguments)
+					}, i[r].l = 1 * new Date();
+					a = s.createElement(o),
+						m = s.getElementsByTagName(o)[0];
+					a.async = 1;
+					a.src = g;
+					m.parentNode.insertBefore(a, m)
+				})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+			ga('create', 'UA-75685104-1', 'auto');
+			ga('send', 'pageview');
+			</script>
+
+	<!-- ADS -->
+			<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4184100205220975" crossorigin="anonymous"></script>
+	
+
+	<!-- Font CSS (Via CDN) -->
+	<link rel='stylesheet' type='text/css' href='https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800'>	<link rel='stylesheet' type='text/css' href='https://fonts.googleapis.com/css?family=Roboto:400,500,700,300'>
+	<!-- Vendor CSS -->
+	<link rel='stylesheet' type='text/css' href='https://mda.wiki.br/site/@lib/vendor/plugins/magnific/magnific-popup.css'>
+	<!-- Theme CSS -->
+	<link rel='stylesheet' type='text/css' href='https://mda.wiki.br/site/@lib/assets/skin/default_skin/css/theme.css'>
+	<!-- Admin Forms CSS -->
+	<link rel='stylesheet' type='text/css' href='https://mda.wiki.br/site/@lib/assets/admin-tools/admin-forms/css/admin-forms.css'>
+	<!-- jQuery -->
+	<script src='https://mda.wiki.br/site/@lib/vendor/jquery/jquery-1.11.1.min.js'></script>	<script src='https://mda.wiki.br/site/@lib/vendor/jquery/jquery_ui/jquery-ui.min.js'></script>
+	<!-- HTML2PDF -->
+	<script src='https://mda.wiki.br/site/@lib/html2pdf/html2pdf.bundle.min.js'></script>
+	<!-- Admin Modals CSS -->
+	<link rel='stylesheet' type='text/css' href='https://mda.wiki.br/site/@lib/assets/admin-tools/admin-plugins/admin-modal/adminmodal.css'>
+	<link rel='stylesheet' type='text/css' href='https://mda.wiki.br/site/@lib/font-awesome/css/all.min.css'>
+	<script src='https://mda.wiki.br/site/@lib/scripts.js?v=20260214013729'></script>	<link rel='stylesheet' type='text/css' href='https://mda.wiki.br/site/@lib/estilo.css?v=20260214013729'>	<script src='https://mda.wiki.br/site/@lib/typeahead.js?v=20260214013729'></script>
+	<style>
+		body header .logo-navbar {
+			display: none;
+		}
+
+		body.sb-l-m header .logo-navbar,
+		body.mobile-view .logo-navbar {
+			display: block;
+		}
+
+		.page-content ol li,
+		ul li {
+			font-weight: bold;
+		}
+
+		.page-content ol li *,
+		ul li * {
+			font-weight: normal;
+		}
+
+		.page-content ol li b,
+		.page-content ol li b *,
+		.page-content ol li strong,
+		.page-content ol li strong *,
+		ul li b,
+		ul li b *,
+		ul li strong,
+		ul li strong * {
+			font-weight: bold;
+		}
+
+		.page-content figure {
+			margin: 15px;
+		}
+
+		.page-content figure figcaption {
+			font-size: 11px;
+			color: #999999;
+			text-align: center;
+		}
+
+		.page-content .biography {
+			float: right;
+			width: 250px;
+			margin: 15px;
+		}
+
+		.page-content img {
+			max-width: 240px;
+		}
+
+		body {
+			min-height: 100% !important;
+		}
+	</style>
+</head>
+
+<body data-ident="imagem@emblema_d1" data-c="" class="" data-type="imagem">
+
+	<!-- Start: Main -->
+	<div id="main">
+
+<!-- Start: Header -->
+<header class="navbar navbar-fixed-top bg-dark">
+
+	<div class="navbar-branding dark bg-dark">
+		<a class="navbar-brand" href="https://mda.wiki.br/">
+			<img src="https://mda.wiki.br/site/@imgs/logo_mdawiki.svg" width="140">
+		</a>
+		<span id="toggle_sidemenu_l" onClick="sidemenu();" class="glyphicons glyphicons-show_lines"></span>
+		<ul class="nav navbar-nav pull-right hidden">
+			<li>
+				<a href="#" class="sidebar-menu-toggle">
+					<span class="octicon octicon-ruby fs20 mr10 pull-right "></span>
+				</a>
+			</li>
+		</ul>
+	</div>
+	<ul class="nav navbar-nav navbar-left">
+		<li class="logo-navbar">
+			<a href="https://mda.wiki.br/">
+				<img src="https://mda.wiki.br/site/@imgs/logo_mdawiki.svg" width="140" style="margin-top:-10px">
+			</a>
+		</li>
+		<li>
+			<a class="" href="https://www.facebook.com/mdawiki" target="_blank">
+				<span class="glyphicons glyphicons-facebook fs16"></span>
+			</a>
+		</li>
+			</ul>
+	<form class="navbar-form navbar-left navbar-search ml5" role="search">
+		<div class="form-group">
+			<input type="text" class="form-control typeahead" placeholder="Localizar..." id="search">
+		</div>
+	</form>
+
+	<ul class="nav navbar-nav navbar-right">
+			
+				<li>
+			<a class="" href="https://mda.wiki.br/page@Acesso">
+				<span class="fas fa-user"></span>
+				<span class="fw600">Login</span>
+			</a>
+		</li>
+		<li>
+			<a class="" href="https://mda.wiki.br/page@Cadastre-se">
+				<span class="fas fa-user-plus"></span>
+				Cadastre-se
+			</a>
+		</li>
+			</ul>
+
+</header>
+<!-- End: Header -->
+
+<!-- Start: Sidebar -->
+<aside id="sidebar_left" class="nano nano-primary affix">
+	<div class="nano-content">
+
+		<!-- sidebar menu -->
+		<ul class="nav sidebar-menu">
+			<li>
+				<a href="https://mda.wiki.br/page@Doação">
+					<span class="fas fa-money"></span>
+					<span class="sidebar-title">Fa&ccedil;a uma Doa&ccedil;&atilde;o</span>
+					<span class="sidebar-title-tray">
+						<span class="label label-xs bg-primary">Doar</span>
+					</span>
+				</a>
+			</li>
+			<li class="sidebar-label pt20">Desbravadores</li>
+			<li>
+				<a class="accordion-toggle" href="#">
+					<span class=""><img src="https://mda.wiki.br/site/@imgs/ico_classe_dbv.svg" width="20"></span>
+					<span class="sidebar-title">Classes</span>
+					<span class="caret"></span>
+				</a>
+				<ul class="nav sub-nav">
+					<li><a href="https://mda.wiki.br/Cartão_de_Amigo">Amigo</a></li>
+					<li><a href="https://mda.wiki.br/Cartão_de_Companheiro">Companheiro</a></li>
+					<li><a href="https://mda.wiki.br/Cartão_de_Pesquisador">Pesquisador</a></li>
+					<li><a href="https://mda.wiki.br/Cartão_de_Pioneiro">Pioneiro</a></li>
+					<li><a href="https://mda.wiki.br/Cartão_de_Excursionista">Excursionista</a></li>
+					<li><a href="https://mda.wiki.br/Cartão_de_Guia">Guia</a></li>
+					<li><a href="https://mda.wiki.br/Cartão_de_Classes_Agrupadas">Classes Agrupadas</a></li>
+					<li><a href="https://mda.wiki.br/Cartão_de_Líder">Líder</a></li>
+					<li><a href="https://mda.wiki.br/Cartão_de_Líder_Master">Líder Master</a></li>
+					<li><a href="https://mda.wiki.br/Cartão_de_Líder_Master_Avançado">Líder Master Avançado</a></li>
+				</ul>
+			</li>
+			<li>
+				<a class="accordion-toggle" href="#">
+					<span class=""><img src="https://mda.wiki.br/site/@imgs/ico_especialidade_dbv.svg" width="20"></span>
+					<span class="sidebar-title">Especialidades</span>
+					<span class="caret"></span>
+				</a>
+				<ul class="nav sub-nav">
+					<li><a href="https://mda.wiki.br/ADRA">ADRA</a></li>
+					<li><a href="https://mda.wiki.br/Artes_e_Habilidades_Manuais">Artes e Habilidades Manuais</a></li>
+					<li><a href="https://mda.wiki.br/Atividades_Agrícolas">Atividades Agrícolas</a></li>
+					<li><a href="https://mda.wiki.br/Atividades_Missionárias_e_Comunitárias">Atividades Missionárias e Comunitárias</a></li>
+					<li><a href="https://mda.wiki.br/Atividades_Profissionais">Atividades Profissionais</a></li>
+					<li><a href="https://mda.wiki.br/Atividades_Recreativas">Atividades Recreativas</a></li>
+					<li><a href="https://mda.wiki.br/Ciência_e_Saúde">Ciência e Saúde</a></li>
+					<li><a href="https://mda.wiki.br/Estudos_da_Natureza">Estudos da Natureza</a></li>
+					<li><a href="https://mda.wiki.br/Habilidades_Domésticas">Habilidades Domésticas</a></li>
+					<li><a href="https://mda.wiki.br/Mestrados">Mestrados de Especialiades</a></li>
+				</ul>
+			</li>
+			<li class="sidebar-label pt15">Aventureiros</li>
+			<li>
+				<a class="accordion-toggle" href="#">
+					<span class=""><img src="https://mda.wiki.br/site/@imgs/ico_classe_avt.svg" width="20"></span>
+					<span class="sidebar-title">Classes</span>
+					<span class="caret"></span>
+				</a>
+				<ul class="nav sub-nav">
+					<li><a href="https://mda.wiki.br/Cartão_de_Abelhinhas_Laboriosas">Abelhinhas Laboriosas</a></li>
+					<li><a href="https://mda.wiki.br/Cartão_de_Luminares">Luminares</a></li>
+					<li><a href="https://mda.wiki.br/Cartão_de_Edificadores">Edificadores</a></li>
+					<li><a href="https://mda.wiki.br/Cartão_de_Mãos_Ajudadoras">Mãos Ajudadoras</a></li>
+					<li><a href="https://mda.wiki.br/Cartão_de_Líder_de_Aventureiros">Líder</a></li>
+				</ul>
+			</li>
+			<li>
+				<a class="accordion-toggle" href="#">
+					<span class=""><img src="https://mda.wiki.br/site/@imgs/ico_especialidade_avt.svg" width="20"></span>
+					<span class="sidebar-title">Especialidades</span>
+					<span class="caret"></span>
+				</a>
+				<ul class="nav sub-nav">
+					<li><a href="https://mda.wiki.br/Artes_Manuais">Artes Manuais</a></li>
+					<li><a href="https://mda.wiki.br/Atividades_Espirituais">Atividades Espirituais</a></li>
+					<li><a href="https://mda.wiki.br/Atividades_Recreativas_(aventureiros)">Atividades Recreativas</a></li>
+					<li><a href="https://mda.wiki.br/Estudos_da_Natureza_(aventureiros)">Estudos da Natureza</a></li>
+					<li><a href="https://mda.wiki.br/Habilidades_Domésticas_(aventureiros)">Habilidades Domésticas</a></li>
+				</ul>
+			</li>
+
+			<li class="sidebar-label pt20">Categorias</li>
+			<li>
+				<a href="https://mda.wiki.br/Acampamento">
+					<span class=""><img src="https://mda.wiki.br/site/@imgs/ico_acampamento.svg" width="20"></span>
+					<span class="sidebar-title">Acampamento</span>
+				</a>
+				<a href="https://mda.wiki.br/Camporis">
+					<span class=""><img src="https://mda.wiki.br/site/@imgs/ico_campori.svg" width="20"></span>
+					<span class="sidebar-title">Camporis</span>
+				</a>
+				<a href="https://mda.wiki.br/Cerimônias">
+					<span class=""><img src="https://mda.wiki.br/site/@imgs/ico_cerimonias.svg" width="20"></span>
+					<span class="sidebar-title">Cerimônias</span>
+				</a>
+				<a href="https://mda.wiki.br/Civismo">
+					<span class=""><img src="https://mda.wiki.br/site/@imgs/ico_civismo.svg" width="20"></span>
+					<span class="sidebar-title">Civismo</span>
+				</a>
+				<a href="https://mda.wiki.br/Hinos">
+					<span class=""><img src="https://mda.wiki.br/site/@imgs/ico_hinos.svg" width="20"></span>
+					<span class="sidebar-title">Hinos</span>
+				</a>
+				<a href="https://mda.wiki.br/Histórico">
+					<span class=""><img src="https://mda.wiki.br/site/@imgs/ico_historico.svg" width="20"></span>
+					<span class="sidebar-title">Histórico</span>
+				</a>
+				<a href="https://mda.wiki.br/Ideais">
+					<span class=""><img src="https://mda.wiki.br/site/@imgs/ico_ideais.svg" width="20"></span>
+					<span class="sidebar-title">Ideais</span>
+				</a>
+				<a href="https://mda.wiki.br/Liderança">
+					<span class=""><img src="https://mda.wiki.br/site/@imgs/ico_lideranca.svg" width="20"></span>
+					<span class="sidebar-title">Liderança</span>
+				</a>
+				<a href="https://mda.wiki.br/Nós_e_Amarras">
+					<span class=""><img src="https://mda.wiki.br/site/@imgs/ico_noseamarras.svg" width="20"></span>
+					<span class="sidebar-title">Nós e Amarras</span>
+				</a>
+				<a href="https://mda.wiki.br/Ordem_Unida">
+					<span class=""><img src="https://mda.wiki.br/site/@imgs/ico_ordemunida.svg" width="20"></span>
+					<span class="sidebar-title">Ordem Unida</span>
+				</a>
+				<a href="https://mda.wiki.br/Pessoas">
+					<span class=""><img src="https://mda.wiki.br/site/@imgs/ico_pessoas.svg" width="20"></span>
+					<span class="sidebar-title">Pessoas</span>
+				</a>
+				<a href="https://mda.wiki.br/Uniforme">
+					<span class=""><img src="https://mda.wiki.br/site/@imgs/ico_uniforme.svg" width="20"></span>
+					<span class="sidebar-title">Uniformes</span>
+				</a>
+				<a href="https://mda.wiki.br/@Categorias">
+					<span class="glyphicon glyphicon-th-large"></span>
+					<span class="sidebar-title">Todas as Categorias</span>
+				</a>
+			</li>
+		</ul>
+		<div class="sidebar-toggle-mini">
+			<a href="#" onClick="sidemenu('no');" >
+				<span class="fa fa-sign-out-alt"></span>
+			</a>
+		</div>
+	</div>
+</aside>
+<!-- Start: Content-Wrapper -->
+<section id="content_wrapper">
+
+	<!-- Begin: Content -->
+	<section id="content" class="animated fadeIn">
+				<div class="row" style="display:flex;">
+			<div class="col-md-9">
+
+				
+				<div class="panel br-t bw5 br-grey mn">
+					<div class="panel-heading panel-visible">
+						<div class="widget-menu pull-right mr10">
+							<button type="button" class="btn btn-xs btn-warning" onClick="abreLink('https://mda.wiki.br/imagem@Emblema_D1/editar')">
+								<span class="glyphicons glyphicon-pencil mr5"></span> Editar P&aacute;gina
+							</button>
+							<button type="button" class="btn btn-xs btn-system" onClick="abreLink('https://mda.wiki.br/imagem@Emblema_D1/historico')">
+								<span class="glyphicons glyphicons-history mr5"></span> Hist&oacute;rico de Edi&ccedil;&otilde;es
+							</button>
+							<button type="button" class="btn btn-xs btn-info" onClick="bt_atualizapagina();">
+								<span class="glyphicons glyphicons-refresh"></span> Atualizar
+							</button>
+							<button type="button" class="btn btn-xs btn-danger" onClick="gerapdf('Emblema D1','https://mda.wiki.br/imagem@Emblema_D1/');">
+								<span class="glyphicons glyphicons-print"></span> Imprimir
+							</button>
+							<!--
+							<button type="button" class="btn btn-xs btn-danger" onClick="window.print();">
+								<span class="glyphicons glyphicons-print"></span> Imprimir
+							</button>
+							-->
+						</div>
+					</div>
+					<div class="panel-body pn">
+						<div class="p25 br-b page-content clearfix" id="page-content">
+							<h1 class="fw200 mb20">Imagem: Emblema D1</h1>
+														<hr class="short">
+							<div class="text-justify">
+								<div class='text-center'><img style='max-width:400px' src='https://mda.wiki.br/site/@imgs_wiki/imagem@emblema_d1.svg?v=20220804094925'></div>
+							</div>
+
+						</div>
+
+
+																			<div class="table-layout br-t bg-light">
+								<div class="col-xs-12">
+									<h5 class="text-muted pl5 mt20 mb20">Páginas vinculadas à esta imagem <span class='badge badge-info'>576</span></h5>
+									<ul class="fs15 mb30" style="column-width:300px;column-count: auto;-moz-column-count: auto;-webkit-column-count: auto">
+										<li><a href='https://mda.wiki.br/Código_Disciplinar_MD' class='text-primary'>Código Disciplinar MD</a></li><li><a href='https://mda.wiki.br/Desbravadores' class='text-primary'>Desbravadores</a></li><li><a href='https://mda.wiki.br/Emblemas_dos_Desbravadores' class='text-primary'>Emblemas dos Desbravadores</a></li><li><a href='https://mda.wiki.br/Emblema_D1' class='text-primary'>Emblema D1</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Abelhas_e_Vespas' class='text-primary'>Especialidade de Abelhas e Vespas</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Acampamento_Consciente' class='text-primary'>Especialidade de Acampamento Consciente</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Acampamento_em_Baixas_Temperaturas' class='text-primary'>Especialidade de Acampamento em Baixas Temperaturas</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Acampamento_I' class='text-primary'>Especialidade de Acampamento I</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Acampamento_II' class='text-primary'>Especialidade de Acampamento II</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Acampamento_III' class='text-primary'>Especialidade de Acampamento III</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Acampamento_IV' class='text-primary'>Especialidade de Acampamento IV</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Acampamento_Seguro' class='text-primary'>Especialidade de Acampamento Seguro</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Acampamento_Seguro_-_avançado' class='text-primary'>Especialidade de Acampamento Seguro - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Administração' class='text-primary'>Especialidade de Administração</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Adoração_Cristã' class='text-primary'>Especialidade de Adoração Cristã</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Aeromodelismo' class='text-primary'>Especialidade de Aeromodelismo</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Agricultura' class='text-primary'>Especialidade de Agricultura</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Agricultura_Familiar_de_Subsistência' class='text-primary'>Especialidade de Agricultura Familiar de Subsistência</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Alerta_Vermelho' class='text-primary'>Especialidade de Alerta Vermelho</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Alfabetização' class='text-primary'>Especialidade de Alfabetização</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Algas' class='text-primary'>Especialidade de Algas</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Alívio_da_Fome' class='text-primary'>Especialidade de Alívio da Fome</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Alvenaria' class='text-primary'>Especialidade de Alvenaria</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Amigurumi' class='text-primary'>Especialidade de Amigurumi</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Anatomia_Humana_Básica' class='text-primary'>Especialidade de Anatomia Humana Básica</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Anfíbios' class='text-primary'>Especialidade de Anfíbios</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Anfíbios_-_avançado' class='text-primary'>Especialidade de Anfíbios - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Animais_Ameaçados_de_Extinção' class='text-primary'>Especialidade de Animais Ameaçados de Extinção</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Animais_Migratórios' class='text-primary'>Especialidade de Animais Migratórios</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Animais_Nocivos' class='text-primary'>Especialidade de Animais Nocivos</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Animais_Noturnos' class='text-primary'>Especialidade de Animais Noturnos</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Animais_Peçonhentos' class='text-primary'>Especialidade de Animais Peçonhentos</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Apicultura' class='text-primary'>Especialidade de Apicultura</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Apitos' class='text-primary'>Especialidade de Apitos</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Apitos_-_avançado' class='text-primary'>Especialidade de Apitos - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Apocalipse' class='text-primary'>Especialidade de Apocalipse</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Aquarismo' class='text-primary'>Especialidade de Aquarismo</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Aranhas' class='text-primary'>Especialidade de Aranhas</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Araras,_Papagaios_e_Periquitos' class='text-primary'>Especialidade de Araras, Papagaios e Periquitos</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Arbustos' class='text-primary'>Especialidade de Arbustos</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Arbustos_-_avançado' class='text-primary'>Especialidade de Arbustos - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Arco_e_Flecha' class='text-primary'>Especialidade de Arco e Flecha</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Arco_e_Flecha_-_avançado' class='text-primary'>Especialidade de Arco e Flecha - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Areia' class='text-primary'>Especialidade de Areia</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Arqueologia_Bíblica' class='text-primary'>Especialidade de Arqueologia Bíblica</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Artes_Mateiras' class='text-primary'>Especialidade de Artes Mateiras</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Arte_com_Barbante' class='text-primary'>Especialidade de Arte com Barbante</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Arte_Culinária' class='text-primary'>Especialidade de Arte Culinária</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Arte_Culinária_-_avançado' class='text-primary'>Especialidade de Arte Culinária - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Arte_da_Pregação_Cristã' class='text-primary'>Especialidade de Arte da Pregação Cristã</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Arte_da_Pregação_Cristã_-_avançado' class='text-primary'>Especialidade de Arte da Pregação Cristã - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Arte_de_Acampar' class='text-primary'>Especialidade de Arte de Acampar</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Arte_de_Contar_Histórias_Cristãs' class='text-primary'>Especialidade de Arte de Contar Histórias Cristãs</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Arte_de_Fazer_Esteiras' class='text-primary'>Especialidade de Arte de Fazer Esteiras</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Arte_de_Oleiro' class='text-primary'>Especialidade de Arte de Oleiro</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Arte_de_Trançar' class='text-primary'>Especialidade de Arte de Trançar</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Arte_de_Trançar_-_avançado' class='text-primary'>Especialidade de Arte de Trançar - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Arte_Digital' class='text-primary'>Especialidade de Arte Digital</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Arte_em_Fantoches' class='text-primary'>Especialidade de Arte em Fantoches</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Arte_em_Fantoches_-_avançado' class='text-primary'>Especialidade de Arte em Fantoches - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Árvores' class='text-primary'>Especialidade de Árvores</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Árvores_-_avançado' class='text-primary'>Especialidade de Árvores - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Asseio_e_Cortesia_Cristã' class='text-primary'>Especialidade de Asseio e Cortesia Cristã</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Astronomia' class='text-primary'>Especialidade de Astronomia</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Astronomia_-_avançado' class='text-primary'>Especialidade de Astronomia - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Atletismo' class='text-primary'>Especialidade de Atletismo</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Automodelismo' class='text-primary'>Especialidade de Automodelismo</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Avaliação_da_Comunidade' class='text-primary'>Especialidade de Avaliação da Comunidade</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Aventuras_com_Cristo' class='text-primary'>Especialidade de Aventuras com Cristo</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Aventuras_com_Cristo_-_avançado' class='text-primary'>Especialidade de Aventuras com Cristo - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Aves' class='text-primary'>Especialidade de Aves</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Aves_-_avançado' class='text-primary'>Especialidade de Aves - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Aves_de_Estimação' class='text-primary'>Especialidade de Aves de Estimação</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Aves_de_Rapina' class='text-primary'>Especialidade de Aves de Rapina</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Aves_Domésticas' class='text-primary'>Especialidade de Aves Domésticas</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Avicultura' class='text-primary'>Especialidade de Avicultura</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Bactérias' class='text-primary'>Especialidade de Bactérias</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Balões_de_Ar_Quente' class='text-primary'>Especialidade de Balões de Ar Quente</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Bandeiras_Náuticas' class='text-primary'>Especialidade de Bandeiras Náuticas</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Barbearia' class='text-primary'>Especialidade de Barbearia</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Barco_a_Motor' class='text-primary'>Especialidade de Barco a Motor</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Basquete' class='text-primary'>Especialidade de Basquete</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Batismo' class='text-primary'>Especialidade de Batismo</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Biblioteconomia' class='text-primary'>Especialidade de Biblioteconomia</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Bioquímica' class='text-primary'>Especialidade de Bioquímica</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Bioquímica_-_avançado' class='text-primary'>Especialidade de Bioquímica - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Biossegurança' class='text-primary'>Especialidade de Biossegurança</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Biscuit' class='text-primary'>Especialidade de Biscuit</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Blogs' class='text-primary'>Especialidade de Blogs</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Boa_Conduta_Escolar' class='text-primary'>Especialidade de Boa Conduta Escolar</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Boliche' class='text-primary'>Especialidade de Boliche</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Bolinha_de_Gude' class='text-primary'>Especialidade de Bolinha de Gude</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Bordado_em_Ponto_Cruz' class='text-primary'>Especialidade de Bordado em Ponto Cruz</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Braile' class='text-primary'>Especialidade de Braile</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Briófitas' class='text-primary'>Especialidade de Briófitas</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Bromélias' class='text-primary'>Especialidade de Bromélias</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Cactos' class='text-primary'>Especialidade de Cactos</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Cactos_-_avançado' class='text-primary'>Especialidade de Cactos - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Cães' class='text-primary'>Especialidade de Cães</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Cães_-_Cuidado_e_Treinamento' class='text-primary'>Especialidade de Cães - Cuidado e Treinamento</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Caiaque' class='text-primary'>Especialidade de Caiaque</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Camelos' class='text-primary'>Especialidade de Camelos</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Campori_Seguro' class='text-primary'>Especialidade de Campori Seguro</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Canoagem' class='text-primary'>Especialidade de Canoagem</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Carpintaria' class='text-primary'>Especialidade de Carpintaria</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Carrinho_de_Rolimã' class='text-primary'>Especialidade de Carrinho de Rolimã</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Ceia_do_Senhor' class='text-primary'>Especialidade de Ceia do Senhor</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Cerâmica' class='text-primary'>Especialidade de Cerâmica</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Cerimônias' class='text-primary'>Especialidade de Cerimônias</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Cestaria' class='text-primary'>Especialidade de Cestaria</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Cetáceos' class='text-primary'>Especialidade de Cetáceos</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Ciclismo' class='text-primary'>Especialidade de Ciclismo</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Ciclismo_-_avançado' class='text-primary'>Especialidade de Ciclismo - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Cidadania_Cristã' class='text-primary'>Especialidade de Cidadania Cristã</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Ciência_Planetária' class='text-primary'>Especialidade de Ciência Planetária</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Cientistas_Cristãos' class='text-primary'>Especialidade de Cientistas Cristãos</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Cigarras' class='text-primary'>Especialidade de Cigarras</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Citologia' class='text-primary'>Especialidade de Citologia</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Climatologia' class='text-primary'>Especialidade de Climatologia</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Climatologia_-_avançado' class='text-primary'>Especialidade de Climatologia - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Código_Morse' class='text-primary'>Especialidade de Código Morse</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Código_Semafórico' class='text-primary'>Especialidade de Código Semafórico</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Colecionador' class='text-primary'>Especialidade de Colecionador</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Colocação_de_Papel_de_Parede' class='text-primary'>Especialidade de Colocação de Papel de Parede</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Colportagem' class='text-primary'>Especialidade de Colportagem</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Comidas_Típicas' class='text-primary'>Especialidade de Comidas Típicas</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Comida_Mateira' class='text-primary'>Especialidade de Comida Mateira</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Compostagem_Doméstica' class='text-primary'>Especialidade de Compostagem Doméstica</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Computação_III_-_regular' class='text-primary'>Especialidade de Computação III - regular</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Computação_II_-_médio' class='text-primary'>Especialidade de Computação II - médio</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Computação_IV_-_avançado' class='text-primary'>Especialidade de Computação IV - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Computação_I_-_básico' class='text-primary'>Especialidade de Computação I - básico</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Computação_V_-_especialista' class='text-primary'>Especialidade de Computação V - especialista</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Conduta_Cristã' class='text-primary'>Especialidade de Conduta Cristã</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Congelamento_de_Alimentos' class='text-primary'>Especialidade de Congelamento de Alimentos</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Conserto_de_Sapatos' class='text-primary'>Especialidade de Conserto de Sapatos</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Conservação_Ambiental' class='text-primary'>Especialidade de Conservação Ambiental</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Construção_de_Canoas' class='text-primary'>Especialidade de Construção de Canoas</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Construção_Nativa' class='text-primary'>Especialidade de Construção Nativa</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Construções_Rústicas_de_Grande_Porte' class='text-primary'>Especialidade de Construções Rústicas de Grande Porte</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Contabilidade' class='text-primary'>Especialidade de Contabilidade</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Coração_e_Circulação' class='text-primary'>Especialidade de Coração e Circulação</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Corrida_de_Carrinhos_de_Madeira' class='text-primary'>Especialidade de Corrida de Carrinhos de Madeira</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Corrida_de_Carrinhos_de_Madeira_-_avançado' class='text-primary'>Especialidade de Corrida de Carrinhos de Madeira - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Corte_e_Costura' class='text-primary'>Especialidade de Corte e Costura</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Corte_e_Costura_-_avançado' class='text-primary'>Especialidade de Corte e Costura - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Costura_Básica' class='text-primary'>Especialidade de Costura Básica</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Cozinha_com_Forno_Holandês' class='text-primary'>Especialidade de Cozinha com Forno Holandês</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Cozinha_Segura' class='text-primary'>Especialidade de Cozinha Segura</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Crescimento_em_Cristo' class='text-primary'>Especialidade de Crescimento em Cristo</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Criação_de_Cabras' class='text-primary'>Especialidade de Criação de Cabras</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Criação_de_Cavalos' class='text-primary'>Especialidade de Criação de Cavalos</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Criação_de_Gado_Leiteiro' class='text-primary'>Especialidade de Criação de Gado Leiteiro</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Criação_de_Ovelhas' class='text-primary'>Especialidade de Criação de Ovelhas</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Criação_de_Pombos' class='text-primary'>Especialidade de Criação de Pombos</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Criação_do_Mundo' class='text-primary'>Especialidade de Criação do Mundo</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Criacionismo' class='text-primary'>Especialidade de Criacionismo</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Criacionismo_-_avançado' class='text-primary'>Especialidade de Criacionismo - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Crítico_de_Mídia' class='text-primary'>Especialidade de Crítico de Mídia</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Crochê' class='text-primary'>Especialidade de Crochê</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Crochê_-_avançado' class='text-primary'>Especialidade de Crochê - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Crustáceos' class='text-primary'>Especialidade de Crustáceos</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Cubo_Mágico' class='text-primary'>Especialidade de Cubo Mágico</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Cuidados_da_Casa' class='text-primary'>Especialidade de Cuidados da Casa</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Cuidados_e_Manutenção_de_Violões' class='text-primary'>Especialidade de Cuidados e Manutenção de Violões</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Cuidado_de_Bebês' class='text-primary'>Especialidade de Cuidado de Bebês</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Cultura_Física' class='text-primary'>Especialidade de Cultura Física</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Cultura_Indígena' class='text-primary'>Especialidade de Cultura Indígena</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Cultura_Indígena_-_avançado' class='text-primary'>Especialidade de Cultura Indígena - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Cultura_Sul_Americana' class='text-primary'>Especialidade de Cultura Sul Americana</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Datilografia' class='text-primary'>Especialidade de Datilografia</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Decoração_de_Bolos' class='text-primary'>Especialidade de Decoração de Bolos</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Decoupage' class='text-primary'>Especialidade de Decoupage</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Desenho_e_Pintura' class='text-primary'>Especialidade de Desenho e Pintura</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Desenho_vetorial' class='text-primary'>Especialidade de Desenho vetorial</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Desenvolvimento_Comunitário' class='text-primary'>Especialidade de Desenvolvimento Comunitário</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Desenvolvimento_de_Software' class='text-primary'>Especialidade de Desenvolvimento de Software</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Desfile_com_Carros_Alegóricos' class='text-primary'>Especialidade de Desfile com Carros Alegóricos</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Desfile_com_Carros_Alegóricos_-_avançado' class='text-primary'>Especialidade de Desfile com Carros Alegóricos - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Desidratação_de_Alimentos' class='text-primary'>Especialidade de Desidratação de Alimentos</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Deus_Espírito_Santo' class='text-primary'>Especialidade de Deus Espírito Santo</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Deus_Filho' class='text-primary'>Especialidade de Deus Filho</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Deus_Pai' class='text-primary'>Especialidade de Deus Pai</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Digestão' class='text-primary'>Especialidade de Digestão</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Dinossauros' class='text-primary'>Especialidade de Dinossauros</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Dom_de_Profecia' class='text-primary'>Especialidade de Dom de Profecia</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Dons_e_Ministérios_Espirituais' class='text-primary'>Especialidade de Dons e Ministérios Espirituais</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Dramatização_Cristã' class='text-primary'>Especialidade de Dramatização Cristã</a></li><li><a href='https://mda.wiki.br/Especialidade_de_E.V.A.' class='text-primary'>Especialidade de E.V.A.</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Ecologia' class='text-primary'>Especialidade de Ecologia</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Ecologia_-_avançado' class='text-primary'>Especialidade de Ecologia - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Educação_Inclusiva' class='text-primary'>Especialidade de Educação Inclusiva</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Eletricidade' class='text-primary'>Especialidade de Eletricidade</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Eletrônica' class='text-primary'>Especialidade de Eletrônica</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Embalagem' class='text-primary'>Especialidade de Embalagem</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Encadernação' class='text-primary'>Especialidade de Encadernação</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Energias_Renováveis' class='text-primary'>Especialidade de Energias Renováveis</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Enfermagem_Básica' class='text-primary'>Especialidade de Enfermagem Básica</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Entalhe_em_Madeira' class='text-primary'>Especialidade de Entalhe em Madeira</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Equinodermos' class='text-primary'>Especialidade de Equinodermos</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Equitação' class='text-primary'>Especialidade de Equitação</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Equitação_-_avançado' class='text-primary'>Especialidade de Equitação - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Ervas' class='text-primary'>Especialidade de Ervas</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Escalada' class='text-primary'>Especialidade de Escalada</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Escalada_-_avançado' class='text-primary'>Especialidade de Escalada - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Escalada_em_Árvores' class='text-primary'>Especialidade de Escalada em Árvores</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Escatologia' class='text-primary'>Especialidade de Escatologia</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Escrituras_Sagradas' class='text-primary'>Especialidade de Escrituras Sagradas</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Escultura' class='text-primary'>Especialidade de Escultura</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Esmaltado_em_Cobre' class='text-primary'>Especialidade de Esmaltado em Cobre</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Esmaltado_em_Cobre_-_avançado' class='text-primary'>Especialidade de Esmaltado em Cobre - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Espaçomodelismo' class='text-primary'>Especialidade de Espaçomodelismo</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Espaçomodelismo_-_avançado' class='text-primary'>Especialidade de Espaçomodelismo - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Espírito_de_Profecia' class='text-primary'>Especialidade de Espírito de Profecia</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Esportes_Adaptados' class='text-primary'>Especialidade de Esportes Adaptados</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Esqui_Aquático' class='text-primary'>Especialidade de Esqui Aquático</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Esqui_Aquático_-_avançado' class='text-primary'>Especialidade de Esqui Aquático - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Esqui_Cross_Country' class='text-primary'>Especialidade de Esqui Cross Country</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Esqui_Downhill' class='text-primary'>Especialidade de Esqui Downhill</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Estofamento' class='text-primary'>Especialidade de Estofamento</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Estuário' class='text-primary'>Especialidade de Estuário</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Estudo_de_Línguas' class='text-primary'>Especialidade de Estudo de Línguas</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Estudo_de_Línguas_-_Avançado' class='text-primary'>Especialidade de Estudo de Línguas - Avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Etnologia_Missionária' class='text-primary'>Especialidade de Etnologia Missionária</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Eucaliptos' class='text-primary'>Especialidade de Eucaliptos</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Evangelismo' class='text-primary'>Especialidade de Evangelismo</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Evangelismo_Pessoal' class='text-primary'>Especialidade de Evangelismo Pessoal</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Evangelismo_Web' class='text-primary'>Especialidade de Evangelismo Web</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Evangelismo_Web_-_avançado' class='text-primary'>Especialidade de Evangelismo Web - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Evolução_em_Ordem_Unida' class='text-primary'>Especialidade de Evolução em Ordem Unida</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Excursionismo_Pedestre' class='text-primary'>Especialidade de Excursionismo Pedestre</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Excursionismo_Pedestre_-_avançado' class='text-primary'>Especialidade de Excursionismo Pedestre - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Excursionismo_Pedestre_com_Mochila' class='text-primary'>Especialidade de Excursionismo Pedestre com Mochila</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Excursionismo_Pedestre_com_Mochila_-_avançado' class='text-primary'>Especialidade de Excursionismo Pedestre com Mochila - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Excursionismo_Pedestre_na_Neve' class='text-primary'>Especialidade de Excursionismo Pedestre na Neve</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Excursionismo_Pedestre_na_Neve_-_avançado' class='text-primary'>Especialidade de Excursionismo Pedestre na Neve - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Experiência_da_Salvação' class='text-primary'>Especialidade de Experiência da Salvação</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Experimentos_Científicos' class='text-primary'>Especialidade de Experimentos Científicos</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Exploração_de_Cavernas' class='text-primary'>Especialidade de Exploração de Cavernas</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Exploração_de_Cavernas_-_avançado' class='text-primary'>Especialidade de Exploração de Cavernas - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Fabricação_de_Velas' class='text-primary'>Especialidade de Fabricação de Velas</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Fanfarra' class='text-primary'>Especialidade de Fanfarra</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Faróis' class='text-primary'>Especialidade de Faróis</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Faróis_-_avançado' class='text-primary'>Especialidade de Faróis - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Fauna_Marinha' class='text-primary'>Especialidade de Fauna Marinha</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Felinos' class='text-primary'>Especialidade de Felinos</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Felinos_-_avançado' class='text-primary'>Especialidade de Felinos - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Ferreomodelismo' class='text-primary'>Especialidade de Ferreomodelismo</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Filatelia' class='text-primary'>Especialidade de Filatelia</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Filatelia_-_avançado' class='text-primary'>Especialidade de Filatelia - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Física' class='text-primary'>Especialidade de Física</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Fisiologia_Vegetal' class='text-primary'>Especialidade de Fisiologia Vegetal</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Flores' class='text-primary'>Especialidade de Flores</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Flores_-_avançado' class='text-primary'>Especialidade de Flores - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Floricultura' class='text-primary'>Especialidade de Floricultura</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Fogueiras_e_Cozinha_ao_Ar_Livre' class='text-primary'>Especialidade de Fogueiras e Cozinha ao Ar Livre</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Formigas' class='text-primary'>Especialidade de Formigas</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Fósseis' class='text-primary'>Especialidade de Fósseis</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Fotografia' class='text-primary'>Especialidade de Fotografia</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Fotografia_Digital' class='text-primary'>Especialidade de Fotografia Digital</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Fungos' class='text-primary'>Especialidade de Fungos</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Futebol' class='text-primary'>Especialidade de Futebol</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Futebol_de_Botão' class='text-primary'>Especialidade de Futebol de Botão</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Futsal' class='text-primary'>Especialidade de Futsal</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Fuxico' class='text-primary'>Especialidade de Fuxico</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Genealogia' class='text-primary'>Especialidade de Genealogia</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Geocaching' class='text-primary'>Especialidade de Geocaching</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Geocaching_-_avançado' class='text-primary'>Especialidade de Geocaching - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Geologia' class='text-primary'>Especialidade de Geologia</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Geologia_-_avançado' class='text-primary'>Especialidade de Geologia - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Ginástica_Acrobática' class='text-primary'>Especialidade de Ginástica Acrobática</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Ginástica_Acrobática_-_avançado' class='text-primary'>Especialidade de Ginástica Acrobática - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Gramíneas' class='text-primary'>Especialidade de Gramíneas</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Grande_Conflito' class='text-primary'>Especialidade de Grande Conflito</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Gravuras_em_Vidro' class='text-primary'>Especialidade de Gravuras em Vidro</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Habilidades_em_Matemática_I' class='text-primary'>Especialidade de Habilidades em Matemática I</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Habilidades_em_Matemática_II' class='text-primary'>Especialidade de Habilidades em Matemática II</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Habilidades_em_Matemática_III' class='text-primary'>Especialidade de Habilidades em Matemática III</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Habilidades_em_Matemática_IV' class='text-primary'>Especialidade de Habilidades em Matemática IV</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Handebol' class='text-primary'>Especialidade de Handebol</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Herança_Cultural' class='text-primary'>Especialidade de Herança Cultural</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Hereditariedade' class='text-primary'>Especialidade de Hereditariedade</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Hidráulica' class='text-primary'>Especialidade de Hidráulica</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Higiene_Oral' class='text-primary'>Especialidade de Higiene Oral</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Higiene_Oral_-_avançado' class='text-primary'>Especialidade de Higiene Oral - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Historiador_Eclesiástico' class='text-primary'>Especialidade de Historiador Eclesiástico</a></li><li><a href='https://mda.wiki.br/Especialidade_de_História_em_Quadrinhos' class='text-primary'>Especialidade de História em Quadrinhos</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Igreja' class='text-primary'>Especialidade de Igreja</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Informática_Programável' class='text-primary'>Especialidade de Informática Programável</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Insetos' class='text-primary'>Especialidade de Insetos</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Insetos_-_avançado' class='text-primary'>Especialidade de Insetos - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Inteligência_Emocional' class='text-primary'>Especialidade de Inteligência Emocional</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Intercessor' class='text-primary'>Especialidade de Intercessor</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Internet' class='text-primary'>Especialidade de Internet</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Internet_-_avançado' class='text-primary'>Especialidade de Internet - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Interpretação_Bíblica' class='text-primary'>Especialidade de Interpretação Bíblica</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Intérprete_de_Língua_de_Sinais' class='text-primary'>Especialidade de Intérprete de Língua de Sinais</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Investigador_Bíblico_I' class='text-primary'>Especialidade de Investigador Bíblico I</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Jardinagem_e_Horticultura' class='text-primary'>Especialidade de Jardinagem e Horticultura</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Jornalismo' class='text-primary'>Especialidade de Jornalismo</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Lapidação' class='text-primary'>Especialidade de Lapidação</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Lei_de_Deus' class='text-primary'>Especialidade de Lei de Deus</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Letreiros_e_Cartazes' class='text-primary'>Especialidade de Letreiros e Cartazes</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Letterboxing' class='text-primary'>Especialidade de Letterboxing</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Letterboxing_-_avançado' class='text-primary'>Especialidade de Letterboxing - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Lettering' class='text-primary'>Especialidade de Lettering</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Liderança_Campestre' class='text-primary'>Especialidade de Liderança Campestre</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Liderança_Campestre_-_avançado' class='text-primary'>Especialidade de Liderança Campestre - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Liderança_Juvenil' class='text-primary'>Especialidade de Liderança Juvenil</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Liderança_na_Selva' class='text-primary'>Especialidade de Liderança na Selva</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Liderança_na_Selva_-_avançado' class='text-primary'>Especialidade de Liderança na Selva - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Língua_de_Sinais' class='text-primary'>Especialidade de Língua de Sinais</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Língua_de_sinais_-_avançado' class='text-primary'>Especialidade de Língua de sinais - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Liquens' class='text-primary'>Especialidade de Liquens</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Lives_-_Transmissão_de_Cultos_Online' class='text-primary'>Especialidade de Lives - Transmissão de Cultos Online</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Livro_de_Daniel' class='text-primary'>Especialidade de Livro de Daniel</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Logística' class='text-primary'>Especialidade de Logística</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Macramê' class='text-primary'>Especialidade de Macramê</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Magistério' class='text-primary'>Especialidade de Magistério</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Mamíferos' class='text-primary'>Especialidade de Mamíferos</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Mamíferos_-_avançado' class='text-primary'>Especialidade de Mamíferos - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Mamíferos_Marinhos' class='text-primary'>Especialidade de Mamíferos Marinhos</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Manutenção_de_Bicicletas' class='text-primary'>Especialidade de Manutenção de Bicicletas</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Mapa_e_Bússola' class='text-primary'>Especialidade de Mapa e Bússola</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Marcação_Bíblica' class='text-primary'>Especialidade de Marcação Bíblica</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Marcação_Bíblica_-_avançado' class='text-primary'>Especialidade de Marcação Bíblica - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Marcenaria' class='text-primary'>Especialidade de Marcenaria</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Mariposas_e_Borboletas' class='text-primary'>Especialidade de Mariposas e Borboletas</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Marketing' class='text-primary'>Especialidade de Marketing</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Marketing_-_avançado' class='text-primary'>Especialidade de Marketing - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Marsupiais' class='text-primary'>Especialidade de Marsupiais</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Matrimônio_e_Família' class='text-primary'>Especialidade de Matrimônio e Família</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Mecânica_Automotiva' class='text-primary'>Especialidade de Mecânica Automotiva</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Mecânica_Automotiva_-_avançado' class='text-primary'>Especialidade de Mecânica Automotiva - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Mecânica_de_Pequenos_Motores' class='text-primary'>Especialidade de Mecânica de Pequenos Motores</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Mensageira_de_Deus' class='text-primary'>Especialidade de Mensageira de Deus</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Mergulho_Autônomo' class='text-primary'>Especialidade de Mergulho Autônomo</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Mergulho_Autônomo_-_avançado' class='text-primary'>Especialidade de Mergulho Autônomo - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Mergulho_Livre' class='text-primary'>Especialidade de Mergulho Livre</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Metodologia_de_Estudo' class='text-primary'>Especialidade de Metodologia de Estudo</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Microscopia' class='text-primary'>Especialidade de Microscopia</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Milênio_e_Fim_do_Pecado' class='text-primary'>Especialidade de Milênio e Fim do Pecado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Mimetismo_e_Camuflagem' class='text-primary'>Especialidade de Mimetismo e Camuflagem</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Ministério_de_Cristo_no_Santuário_Celestial' class='text-primary'>Especialidade de Ministério de Cristo no Santuário Celestial</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Modelagem_em_Gesso' class='text-primary'>Especialidade de Modelagem em Gesso</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Modelagem_e_Fabricação_de_Sabão' class='text-primary'>Especialidade de Modelagem e Fabricação de Sabão</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Modelagem_e_Fabricação_de_Sabão_-_avançado' class='text-primary'>Especialidade de Modelagem e Fabricação de Sabão - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Modelagem_Têxtil' class='text-primary'>Especialidade de Modelagem Têxtil</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Moluscos' class='text-primary'>Especialidade de Moluscos</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Moluscos_-_avançado' class='text-primary'>Especialidade de Moluscos - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Monociclo' class='text-primary'>Especialidade de Monociclo</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Montagem_e_Manutenção_de_Computadores' class='text-primary'>Especialidade de Montagem e Manutenção de Computadores</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Morcegos' class='text-primary'>Especialidade de Morcegos</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Morcegos_-_avançado' class='text-primary'>Especialidade de Morcegos - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Mordomia' class='text-primary'>Especialidade de Mordomia</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Morte_e_Ressurreição' class='text-primary'>Especialidade de Morte e Ressurreição</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Mountain_Biking' class='text-primary'>Especialidade de Mountain Biking</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Música_-_avançado' class='text-primary'>Especialidade de Música - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Música_-_básico' class='text-primary'>Especialidade de Música - básico</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Música_-_intermediário' class='text-primary'>Especialidade de Música - intermediário</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Natação_-_avançado' class='text-primary'>Especialidade de Natação - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Natação_Intermediário_I' class='text-primary'>Especialidade de Natação Intermediário I</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Natação_Intermediário_II' class='text-primary'>Especialidade de Natação Intermediário II</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Natação_Principiante_I' class='text-primary'>Especialidade de Natação Principiante I</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Natação_Principiante_II' class='text-primary'>Especialidade de Natação Principiante II</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Natureza_da_Humanidade' class='text-primary'>Especialidade de Natureza da Humanidade</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Nautimodelismo' class='text-primary'>Especialidade de Nautimodelismo</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Navegação' class='text-primary'>Especialidade de Navegação</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Noções_de_Direito' class='text-primary'>Especialidade de Noções de Direito</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Noções_de_Economia' class='text-primary'>Especialidade de Noções de Economia</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Nós_e_Amarras' class='text-primary'>Especialidade de Nós e Amarras</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Nós_e_Amarras_-_avançado' class='text-primary'>Especialidade de Nós e Amarras - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Nova_Terra' class='text-primary'>Especialidade de Nova Terra</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Numismática' class='text-primary'>Especialidade de Numismática</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Numismática_-_avançado' class='text-primary'>Especialidade de Numismática - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Nutrição' class='text-primary'>Especialidade de Nutrição</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Nutrição_-_avançado' class='text-primary'>Especialidade de Nutrição - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Odonata' class='text-primary'>Especialidade de Odonata</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Ofício_de_Alfaiate' class='text-primary'>Especialidade de Ofício de Alfaiate</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Operação_e_Manutenção_de_Impressoras' class='text-primary'>Especialidade de Operação e Manutenção de Impressoras</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Orçamento_Familiar' class='text-primary'>Especialidade de Orçamento Familiar</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Ordem_Unida' class='text-primary'>Especialidade de Ordem Unida</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Ordem_Unida_-_avançado' class='text-primary'>Especialidade de Ordem Unida - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Ordem_Unida_-_instrutor' class='text-primary'>Especialidade de Ordem Unida - instrutor</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Orientação_com_GPS' class='text-primary'>Especialidade de Orientação com GPS</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Origami' class='text-primary'>Especialidade de Origami</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Origami_-_avançado' class='text-primary'>Especialidade de Origami - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Ornamentação' class='text-primary'>Especialidade de Ornamentação</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Ornamentação_com_Flores' class='text-primary'>Especialidade de Ornamentação com Flores</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Orquídeas' class='text-primary'>Especialidade de Orquídeas</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Orquídeas_-_avançado' class='text-primary'>Especialidade de Orquídeas - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Ossos_Músculos_e_Articulações' class='text-primary'>Especialidade de Ossos Músculos e Articulações</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Ótica' class='text-primary'>Especialidade de Ótica</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Pacificador' class='text-primary'>Especialidade de Pacificador</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Pacificador_-_avançado' class='text-primary'>Especialidade de Pacificador - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Paisagismo' class='text-primary'>Especialidade de Paisagismo</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Palmeiras' class='text-primary'>Especialidade de Palmeiras</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Panificação' class='text-primary'>Especialidade de Panificação</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Papel_Machê' class='text-primary'>Especialidade de Papel Machê</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Papercraft' class='text-primary'>Especialidade de Papercraft</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Parábolas_de_Jesus' class='text-primary'>Especialidade de Parábolas de Jesus</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Patchwork' class='text-primary'>Especialidade de Patchwork</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Patins' class='text-primary'>Especialidade de Patins</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Patrimônio_Histórico' class='text-primary'>Especialidade de Patrimônio Histórico</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Patriotismo' class='text-primary'>Especialidade de Patriotismo</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Pecuária' class='text-primary'>Especialidade de Pecuária</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Peixes' class='text-primary'>Especialidade de Peixes</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Peixes_Ornamentais' class='text-primary'>Especialidade de Peixes Ornamentais</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Pequenos_Mamíferos_de_Estimação' class='text-primary'>Especialidade de Pequenos Mamíferos de Estimação</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Pescaria' class='text-primary'>Especialidade de Pescaria</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Pião' class='text-primary'>Especialidade de Pião</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Pintura_de_Paredes_Exteriores' class='text-primary'>Especialidade de Pintura de Paredes Exteriores</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Pintura_de_Paredes_Interiores' class='text-primary'>Especialidade de Pintura de Paredes Interiores</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Pintura_em_Tecido' class='text-primary'>Especialidade de Pintura em Tecido</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Pintura_em_Vidro' class='text-primary'>Especialidade de Pintura em Vidro</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Pioneirias' class='text-primary'>Especialidade de Pioneirias</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Pioneirias_-_avançado' class='text-primary'>Especialidade de Pioneirias - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Pioneirismo' class='text-primary'>Especialidade de Pioneirismo</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Pioneiros_Adventistas' class='text-primary'>Especialidade de Pioneiros Adventistas</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Pipas' class='text-primary'>Especialidade de Pipas</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Pirografia' class='text-primary'>Especialidade de Pirografia</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Plantas_Carnívoras' class='text-primary'>Especialidade de Plantas Carnívoras</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Plantas_Caseiras' class='text-primary'>Especialidade de Plantas Caseiras</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Plantas_Medicinais' class='text-primary'>Especialidade de Plantas Medicinais</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Plantas_Silvestres_Comestíveis' class='text-primary'>Especialidade de Plantas Silvestres Comestíveis</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Plástico_Canvas' class='text-primary'>Especialidade de Plástico Canvas</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Plastimodelismo' class='text-primary'>Especialidade de Plastimodelismo</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Pomicultura' class='text-primary'>Especialidade de Pomicultura</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Pomicultura_II_-_Frutas_Pequenas' class='text-primary'>Especialidade de Pomicultura II - Frutas Pequenas</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Poríferos_e_Cnidários' class='text-primary'>Especialidade de Poríferos e Cnidários</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Pregador_Evangelista' class='text-primary'>Especialidade de Pregador Evangelista</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Pregador_Evangelista_-_avançado' class='text-primary'>Especialidade de Pregador Evangelista - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Preservação_de_Recursos_Hídricos' class='text-primary'>Especialidade de Preservação de Recursos Hídricos</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Prevenção_de_Doenças_Tropicais' class='text-primary'>Especialidade de Prevenção de Doenças Tropicais</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Primatas' class='text-primary'>Especialidade de Primatas</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Primeiros_Socorros_-_avançado' class='text-primary'>Especialidade de Primeiros Socorros - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Primeiros_Socorros_-_básico' class='text-primary'>Especialidade de Primeiros Socorros - básico</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Primeiros_Socorros_-_intermediário' class='text-primary'>Especialidade de Primeiros Socorros - intermediário</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Produção_de_Pizza' class='text-primary'>Especialidade de Produção de Pizza</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Produção_de_Vídeo' class='text-primary'>Especialidade de Produção de Vídeo</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Protozoários' class='text-primary'>Especialidade de Protozoários</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Quedas_dágua' class='text-primary'>Especialidade de Quedas dágua</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Quelônios' class='text-primary'>Especialidade de Quelônios</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Quilling' class='text-primary'>Especialidade de Quilling</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Quilling_-_avançado' class='text-primary'>Especialidade de Quilling - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Química' class='text-primary'>Especialidade de Química</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Radioamadorismo' class='text-primary'>Especialidade de Radioamadorismo</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Radioamadorismo_-_avançado' class='text-primary'>Especialidade de Radioamadorismo - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Radioeletrônica' class='text-primary'>Especialidade de Radioeletrônica</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Rafting' class='text-primary'>Especialidade de Rafting</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Rapel' class='text-primary'>Especialidade de Rapel</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Rapel_-_avançado' class='text-primary'>Especialidade de Rapel - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Rapel_-_instrutor' class='text-primary'>Especialidade de Rapel - instrutor</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Rastreio_de_Animais' class='text-primary'>Especialidade de Rastreio de Animais</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Rastreio_de_Animais_-_avançado' class='text-primary'>Especialidade de Rastreio de Animais - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Reanimação_Cardiopulmonar' class='text-primary'>Especialidade de Reanimação Cardiopulmonar</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Reassentamento_de_Refugiados' class='text-primary'>Especialidade de Reassentamento de Refugiados</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Rebanhos_Domésticos' class='text-primary'>Especialidade de Rebanhos Domésticos</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Reciclagem_e_Sustentabilidade' class='text-primary'>Especialidade de Reciclagem e Sustentabilidade</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Reciclagem_e_Sustentabilidade_-_avançado' class='text-primary'>Especialidade de Reciclagem e Sustentabilidade - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Relacionamentos_Saudáveis' class='text-primary'>Especialidade de Relacionamentos Saudáveis</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Remanescente_e_sua_Missão' class='text-primary'>Especialidade de Remanescente e sua Missão</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Remédios_da_Natureza' class='text-primary'>Especialidade de Remédios da Natureza</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Remo' class='text-primary'>Especialidade de Remo</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Répteis' class='text-primary'>Especialidade de Répteis</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Répteis_-_avançado' class='text-primary'>Especialidade de Répteis - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Resgate_Básico' class='text-primary'>Especialidade de Resgate Básico</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Resolução_de_Conflitos' class='text-primary'>Especialidade de Resolução de Conflitos</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Resposta_a_Emergências_e_Desastres' class='text-primary'>Especialidade de Resposta a Emergências e Desastres</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Resposta_a_Emergências_e_Desastres_-_avançado' class='text-primary'>Especialidade de Resposta a Emergências e Desastres - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Restauro_e_Conservação_Documental' class='text-primary'>Especialidade de Restauro e Conservação Documental</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Rochas_e_minerais' class='text-primary'>Especialidade de Rochas e minerais</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Rochas_e_Minerais_-_avançado' class='text-primary'>Especialidade de Rochas e Minerais - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Sábado' class='text-primary'>Especialidade de Sábado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Saltos_Ornamentais' class='text-primary'>Especialidade de Saltos Ornamentais</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Salvamento_de_Afogados' class='text-primary'>Especialidade de Salvamento de Afogados</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Salvamento_de_Afogados_-_avançado' class='text-primary'>Especialidade de Salvamento de Afogados - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Samambaias' class='text-primary'>Especialidade de Samambaias</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Sangue_e_Defesas_do_Corpo' class='text-primary'>Especialidade de Sangue e Defesas do Corpo</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Santuário' class='text-primary'>Especialidade de Santuário</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Saúde_e_Cura' class='text-primary'>Especialidade de Saúde e Cura</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Saúde_Mental' class='text-primary'>Especialidade de Saúde Mental</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Scrapbooking' class='text-primary'>Especialidade de Scrapbooking</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Scrapbooking_-_avançado' class='text-primary'>Especialidade de Scrapbooking - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Secretariado' class='text-primary'>Especialidade de Secretariado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Segunda_Vinda_de_Cristo' class='text-primary'>Especialidade de Segunda Vinda de Cristo</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Segurança_Básica_na_Água' class='text-primary'>Especialidade de Segurança Básica na Água</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Segurança_Contra_Incêndios' class='text-primary'>Especialidade de Segurança Contra Incêndios</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Segurança_Nas_Redes_Sociais' class='text-primary'>Especialidade de Segurança Nas Redes Sociais</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Sementes' class='text-primary'>Especialidade de Sementes</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Sementes_-_avançado' class='text-primary'>Especialidade de Sementes - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Serigrafia' class='text-primary'>Especialidade de Serigrafia</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Serigrafia_-_avançado' class='text-primary'>Especialidade de Serigrafia - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Serviço_Comunitário' class='text-primary'>Especialidade de Serviço Comunitário</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Serviço_Rádio_do_Cidadão' class='text-primary'>Especialidade de Serviço Rádio do Cidadão</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Sexualidade_Humana' class='text-primary'>Especialidade de Sexualidade Humana</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Silvicultura' class='text-primary'>Especialidade de Silvicultura</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Sistema_Nervoso' class='text-primary'>Especialidade de Sistema Nervoso</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Sistema_Respiratório' class='text-primary'>Especialidade de Sistema Respiratório</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Skate' class='text-primary'>Especialidade de Skate</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Slackline' class='text-primary'>Especialidade de Slackline</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Softbol' class='text-primary'>Especialidade de Softbol</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Soldagem' class='text-primary'>Especialidade de Soldagem</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Solos' class='text-primary'>Especialidade de Solos</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Sonoplastia' class='text-primary'>Especialidade de Sonoplastia</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Sonoplastia_-_avançado' class='text-primary'>Especialidade de Sonoplastia - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Taquigrafia' class='text-primary'>Especialidade de Taquigrafia</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Tecelagem' class='text-primary'>Especialidade de Tecelagem</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Técnicas_de_Fazer_Conserva' class='text-primary'>Especialidade de Técnicas de Fazer Conserva</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Técnicas_de_Lavanderia' class='text-primary'>Especialidade de Técnicas de Lavanderia</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Telecartofilia' class='text-primary'>Especialidade de Telecartofilia</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Telecartofilia_-_avançado' class='text-primary'>Especialidade de Telecartofilia - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Telhados' class='text-primary'>Especialidade de Telhados</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Temperança' class='text-primary'>Especialidade de Temperança</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Tênis_de_Mesa' class='text-primary'>Especialidade de Tênis de Mesa</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Testemunho_Juvenil' class='text-primary'>Especialidade de Testemunho Juvenil</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Tie-dye' class='text-primary'>Especialidade de Tie-dye</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Tipografia' class='text-primary'>Especialidade de Tipografia</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Torno_Mecânico' class='text-primary'>Especialidade de Torno Mecânico</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Trabalhos_com_Agulha' class='text-primary'>Especialidade de Trabalhos com Agulha</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Trabalhos_em_Acrílico' class='text-primary'>Especialidade de Trabalhos em Acrílico</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Trabalhos_em_Couro' class='text-primary'>Especialidade de Trabalhos em Couro</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Trabalhos_em_Couro_-_avançado' class='text-primary'>Especialidade de Trabalhos em Couro - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Trabalhos_em_Feltro' class='text-primary'>Especialidade de Trabalhos em Feltro</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Trabalhos_em_Madeira' class='text-primary'>Especialidade de Trabalhos em Madeira</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Trabalhos_em_Metal' class='text-primary'>Especialidade de Trabalhos em Metal</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Trabalhos_em_Vidro' class='text-primary'>Especialidade de Trabalhos em Vidro</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Trânsito_Seguro' class='text-primary'>Especialidade de Trânsito Seguro</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Triathlon' class='text-primary'>Especialidade de Triathlon</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Triathlon_-_avançado' class='text-primary'>Especialidade de Triathlon - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Tricô' class='text-primary'>Especialidade de Tricô</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Tricô_-_avançado' class='text-primary'>Especialidade de Tricô - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Trilha_de_Sinais' class='text-primary'>Especialidade de Trilha de Sinais</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Trindade' class='text-primary'>Especialidade de Trindade</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Troca_de_Pins' class='text-primary'>Especialidade de Troca de Pins</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Tubarões' class='text-primary'>Especialidade de Tubarões</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Unidade_no_Corpo_de_Cristo' class='text-primary'>Especialidade de Unidade no Corpo de Cristo</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Vacinas' class='text-primary'>Especialidade de Vacinas</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Vela' class='text-primary'>Especialidade de Vela</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Vendas' class='text-primary'>Especialidade de Vendas</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Vermes' class='text-primary'>Especialidade de Vermes</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Vermes_-_avançado' class='text-primary'>Especialidade de Vermes - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Viagem_e_Turismo' class='text-primary'>Especialidade de Viagem e Turismo</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Viagem_e_Turismo_-_avançado' class='text-primary'>Especialidade de Viagem e Turismo - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Vida,_morte_e_ressureição_de_Cristo' class='text-primary'>Especialidade de Vida, morte e ressureição de Cristo</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Vida_Familiar' class='text-primary'>Especialidade de Vida Familiar</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Vida_Silvestre' class='text-primary'>Especialidade de Vida Silvestre</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Violão' class='text-primary'>Especialidade de Violão</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Violão_-_avançado' class='text-primary'>Especialidade de Violão - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Vírus' class='text-primary'>Especialidade de Vírus</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Vôlei' class='text-primary'>Especialidade de Vôlei</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Vulcões' class='text-primary'>Especialidade de Vulcões</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Wakeboard' class='text-primary'>Especialidade de Wakeboard</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Waveboarding' class='text-primary'>Especialidade de Waveboarding</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Web_Design_-_avançado' class='text-primary'>Especialidade de Web Design - avançado</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Web_Design_-_básico' class='text-primary'>Especialidade de Web Design - básico</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Windsurf' class='text-primary'>Especialidade de Windsurf</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Xilogravura' class='text-primary'>Especialidade de Xilogravura</a></li><li><a href='https://mda.wiki.br/Especialidade_de_Zoonoses' class='text-primary'>Especialidade de Zoonoses</a></li><li><a href='https://mda.wiki.br/História_dos_Ideais_do_Clube_de_Desbravadores' class='text-primary'>História dos Ideais do Clube de Desbravadores</a></li><li><a href='https://mda.wiki.br/Mestrado_em_ADRA' class='text-primary'>Mestrado em ADRA</a></li><li><a href='https://mda.wiki.br/Mestrado_em_Aquática' class='text-primary'>Mestrado em Aquática</a></li><li><a href='https://mda.wiki.br/Mestrado_em_Artes_e_Habilidades_Manuais' class='text-primary'>Mestrado em Artes e Habilidades Manuais</a></li><li><a href='https://mda.wiki.br/Mestrado_em_Atividades_Agrícolas' class='text-primary'>Mestrado em Atividades Agrícolas</a></li><li><a href='https://mda.wiki.br/Mestrado_em_Atividades_Profissionais' class='text-primary'>Mestrado em Atividades Profissionais</a></li><li><a href='https://mda.wiki.br/Mestrado_em_Atividades_Recreativas' class='text-primary'>Mestrado em Atividades Recreativas</a></li><li><a href='https://mda.wiki.br/Mestrado_em_Botânica' class='text-primary'>Mestrado em Botânica</a></li><li><a href='https://mda.wiki.br/Mestrado_em_Ciência_e_Tecnologia' class='text-primary'>Mestrado em Ciência e Tecnologia</a></li><li><a href='https://mda.wiki.br/Mestrado_em_Ecologia' class='text-primary'>Mestrado em Ecologia</a></li><li><a href='https://mda.wiki.br/Mestrado_em_Ensinos_Bíblicos' class='text-primary'>Mestrado em Ensinos Bíblicos</a></li><li><a href='https://mda.wiki.br/Mestrado_em_Esportes' class='text-primary'>Mestrado em Esportes</a></li><li><a href='https://mda.wiki.br/Mestrado_em_Habilidades_Domésticas' class='text-primary'>Mestrado em Habilidades Domésticas</a></li><li><a href='https://mda.wiki.br/Mestrado_em_Saúde' class='text-primary'>Mestrado em Saúde</a></li><li><a href='https://mda.wiki.br/Mestrado_em_Testificação' class='text-primary'>Mestrado em Testificação</a></li><li><a href='https://mda.wiki.br/Mestrado_em_Vida_Campestre' class='text-primary'>Mestrado em Vida Campestre</a></li><li><a href='https://mda.wiki.br/Mestrado_em_Zoologia' class='text-primary'>Mestrado em Zoologia</a></li>									</ul>
+								</div>
+							</div>
+											</div>
+
+					
+
+
+
+
+				</div>
+
+			</div>
+			<div class="col-md-3 sidebar_right">
+
+									<div class="panel panel-info">
+						<div class="panel-heading">
+							<span class="panel-title">Dados da Imagem</span>
+						</div>
+						<div class="panel-body pn">
+							<table class="table mbn tc-med-1 tc-bold-last">
+								<tbody>
+									<tr>
+										<td>
+											<span class="glyphicon glyphicon-resize-horizontal text-info fs14 mr10"></span>Largura
+										</td>
+										<td>33733334px</td>
+									</tr>
+									<tr>
+										<td>
+											<span class="glyphicon glyphicon-resize-vertical text-info fs14 mr10"></span>Altura
+										</td>
+										<td>344px</td>
+									</tr>
+									<tr>
+										<td class="va-m fw600 text-muted">
+											<span class="glyphicon glyphicon-picture text-info fs14 mr10"></span>Formato
+										</td>
+										<td>svg</td>
+									</tr>
+								</tbody>
+							</table>
+						</div>
+					</div>
+				
+				
+				
+				
+				
+			</div>
+		</div>
+
+	</section>
+	<!-- End: Content -->
+
+	</section>
+
+
+<div class="page_print">
+	<h1 class="fw200 mb20">Imagem: Emblema D1</h1>
+		<hr class="short">
+	<div class="text-justify">
+		<div class='text-center'><img style='max-width:400px' src='https://mda.wiki.br/site/@imgs_wiki/imagem@emblema_d1.svg?v=20220804094925'></div>		<div style='border-top:1px solid #AAA'>
+			Conteúdo retirado do site <u>mda.wiki.br</u>.
+			<br>Consulte este artigo no link: <u>https://mda.wiki.br/imagem@Emblema_D1/</u>
+		</div>
+	</div>
+</div>
+
+<style>
+	.page_print {
+		display: none !important;
+	}
+
+	@media print {
+		@page {
+			margin: 2cm
+		}
+
+		html,
+		body,
+		#main {
+			background-color: #FFF !important;
+			color: #000 !important;
+		}
+
+		body {
+			zoom: 125%;
+		}
+
+		#main:before {
+			content: initial !important;
+			position: initial !important;
+			top: initial !important;
+			right: initial !important;
+			bottom: initial !important;
+			left: initial !important;
+			background: initial !important;
+		}
+
+		.navbar,
+		#sidebar_left,
+		#content_wrapper {
+			display: none !important;
+		}
+
+		[href]:after {
+			content: none !important;
+		}
+
+		.page_print {
+			width: 100vw;
+			display: block !important;
+			background: #FFF !important;
+		}
+
+		.templ_especialidade_dbv img {
+			min-width: 80px !important;
+		}
+
+		*,
+		:after,
+		:before {
+			color-adjust: exact !important;
+			-webkit-print-color-adjust: exact !important;
+			print-color-adjust: exact !important;
+		}
+	}
+</style>
+
+
+
+</div>
+<!-- End: Main -->
+
+<!-- BEGIN: PAGE SCRIPTS -->
+
+<!-- Bootstrap -->
+<script src='https://mda.wiki.br/site/@lib/assets/js/bootstrap/bootstrap.min.js'></script>
+<!-- Page Plugins -->
+<script src='https://mda.wiki.br/site/@lib/vendor/plugins/magnific/jquery.magnific-popup.js'></script>
+<!-- Theme Javascript -->
+<script src='https://mda.wiki.br/site/@lib/assets/js/utility/utility.js'></script><script src='https://mda.wiki.br/site/@lib/assets/js/main.js'></script><script type="text/javascript">
+	jQuery(document).ready(function() {
+
+		"use strict";
+
+		// Init Theme Core	
+		Core.init();
+			});
+</script>
+<!-- END: PAGE SCRIPTS -->
+
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"53d4356287744b47a848e2f223ee6859","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+
+</html>

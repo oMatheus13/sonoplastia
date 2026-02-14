@@ -1,0 +1,7 @@
+.biblioteca .card-outline {
+  gap: var(--space-3);
+}
+
+.biblioteca .card-outline .btn {
+  justify-self: flex-start;
+}

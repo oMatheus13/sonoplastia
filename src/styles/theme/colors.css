@@ -1,0 +1,19 @@
+:root {
+  color-scheme: light;
+  --color-bg: #f6f3ee;
+  --color-surface: #fffdf9;
+  --color-surface-strong: #f2ece3;
+  --color-ink: #1f1a16;
+  --color-muted: #5d534a;
+  --color-accent: #d9822b;
+  --color-accent-2: #1b6d5c;
+  --color-outline: rgba(31, 26, 22, 0.12);
+  --color-outline-strong: rgba(31, 26, 22, 0.2);
+  --gradient-bg:
+    radial-gradient(1100px 600px at 8% -10%, rgba(217, 130, 43, 0.18), transparent 60%),
+    radial-gradient(900px 500px at 90% 10%, rgba(27, 109, 92, 0.15), transparent 55%);
+  --pattern-grid:
+    linear-gradient(transparent 0 98%, rgba(31, 26, 22, 0.05) 98% 100%),
+    linear-gradient(90deg, transparent 0 98%, rgba(31, 26, 22, 0.05) 98% 100%);
+  --pattern-size: 56px;
+}

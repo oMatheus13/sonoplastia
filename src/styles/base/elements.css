@@ -1,0 +1,106 @@
+body {
+  font-family: var(--font-sans);
+  font-size: var(--text-base);
+  color: var(--color-ink);
+  background: var(--gradient-bg), var(--color-bg);
+  min-height: 100vh;
+}
+
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  background: var(--pattern-grid);
+  background-size: var(--pattern-size) var(--pattern-size);
+  opacity: 0.4;
+  pointer-events: none;
+  z-index: -1;
+}
+
+main {
+  display: block;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-display);
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  line-height: 1.1;
+}
+
+h1 {
+  font-size: clamp(2.6rem, 4vw, 3.6rem);
+}
+
+h2 {
+  font-size: clamp(2rem, 3vw, 2.6rem);
+}
+
+h3 {
+  font-size: 1.2rem;
+}
+
+p {
+  color: var(--color-ink);
+}
+
+p + p {
+  margin-top: var(--space-3);
+}
+
+a:hover {
+  color: var(--color-accent);
+}
+
+blockquote {
+  border-left: 3px solid var(--color-accent);
+  padding-left: var(--space-4);
+  display: grid;
+  gap: var(--space-2);
+  color: var(--color-muted);
+  font-style: italic;
+}
+
+blockquote p {
+  margin: 0;
+}
+
+blockquote cite {
+  font-size: 0.85rem;
+  color: var(--color-ink);
+  font-style: normal;
+}
+
+small,
+.small {
+  font-size: 0.9rem;
+}
+
+.lead {
+  font-size: 1.15rem;
+  color: var(--color-muted);
+}
+
+.text-muted {
+  color: var(--color-muted);
+}
+
+.eyebrow {
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: var(--color-accent);
+  margin-bottom: var(--space-3);
+}
+
+.stat {
+  font-family: var(--font-display);
+  font-size: 1.8rem;
+  color: var(--color-ink);
+}

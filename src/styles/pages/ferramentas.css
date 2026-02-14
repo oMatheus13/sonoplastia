@@ -1,0 +1,45 @@
+.tools-grid {
+  align-items: stretch;
+}
+
+.tool-card {
+  display: grid;
+  gap: var(--space-4);
+}
+
+.tool-header {
+  display: grid;
+  gap: var(--space-2);
+}
+
+.tool-result {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--space-4);
+  background: var(--color-surface-strong);
+  border: 1px solid var(--color-outline);
+  padding: var(--space-4);
+  border-radius: var(--radius-md);
+}
+
+.result-label {
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--color-muted);
+}
+
+.result-value {
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+.checklist-grid {
+  display: grid;
+  gap: var(--space-2);
+}
+
+.tools-grid .card {
+  height: 100%;
+}

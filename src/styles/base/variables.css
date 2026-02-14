@@ -1,0 +1,6 @@
+:root {
+  --page-width: 1120px;
+  --header-height: 80px;
+  --transition-base: 200ms ease;
+  --transition-slow: 350ms ease;
+}

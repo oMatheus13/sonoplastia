@@ -1,0 +1,6 @@
+.not-found .container {
+  text-align: center;
+  display: grid;
+  gap: var(--space-3);
+  justify-items: center;
+}

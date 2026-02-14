@@ -1,0 +1,139 @@
+.page {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-8);
+}
+
+.hero {
+  padding: calc(var(--space-9) + 1rem) 0 var(--space-9);
+}
+
+.hero-compact {
+  padding: var(--space-8) 0 var(--space-8);
+}
+
+.hero-grid {
+  display: grid;
+  gap: var(--space-6);
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  align-items: center;
+}
+
+.hero-content {
+  display: grid;
+  gap: var(--space-4);
+}
+
+.hero-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-3);
+  margin-top: var(--space-2);
+}
+
+.hero-stats {
+  display: grid;
+  gap: var(--space-4);
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  margin-top: var(--space-4);
+}
+
+.hero-card {
+  background: var(--color-surface);
+  border: 1px solid var(--color-outline);
+  border-radius: var(--radius-lg);
+  padding: var(--space-6);
+  box-shadow: var(--shadow-md);
+  display: grid;
+  gap: var(--space-3);
+  animation: float-in 700ms ease forwards;
+}
+
+.card-actions {
+  margin-top: var(--space-3);
+}
+
+.section-alt .card {
+  background: #fff;
+}
+
+.desbravadores-section {
+  background: rgba(16, 31, 91, 0.08);
+}
+
+.desbravadores-grid {
+  display: grid;
+  gap: var(--space-6);
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  align-items: center;
+}
+
+.desbravadores-content .checklist {
+  margin-top: var(--space-4);
+}
+
+.desbravadores-card {
+  background: var(--color-surface);
+  border: 1px solid var(--color-outline);
+  border-radius: var(--radius-lg);
+  padding: var(--space-5);
+  box-shadow: var(--shadow-sm);
+  display: grid;
+  gap: var(--space-4);
+}
+
+.desbravadores-brand {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: var(--space-3);
+  align-items: center;
+}
+
+.desbravadores-brand img {
+  width: 72px;
+  height: auto;
+}
+
+.desbravadores-badges {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+  gap: var(--space-3);
+}
+
+.desbravadores-badge {
+  background: var(--color-surface-strong);
+  border-radius: var(--radius-md);
+  padding: var(--space-3);
+  display: grid;
+  gap: var(--space-2);
+  align-items: center;
+  justify-items: center;
+  text-align: center;
+  font-weight: 600;
+}
+
+.desbravadores-badge img {
+  width: 70px;
+  height: auto;
+}
+
+.callout {
+  background: linear-gradient(
+    120deg,
+    rgba(217, 130, 43, 0.15),
+    rgba(27, 109, 92, 0.12)
+  );
+}
+
+.callout-grid {
+  display: grid;
+  gap: var(--space-6);
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  align-items: center;
+}
+
+.callout-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-3);
+}
