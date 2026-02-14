@@ -1,0 +1,38 @@
+:root[data-theme="dark"],
+.theme-dark {
+  color-scheme: dark;
+  --color-bg: #12100e;
+  --color-surface: #191513;
+  --color-surface-strong: #221c18;
+  --color-ink: #f7f2ea;
+  --color-muted: #d6c9ba;
+  --color-accent: var(--color-amber-500);
+  --color-accent-2: var(--color-olive-500);
+  --color-outline: rgba(247, 242, 234, 0.14);
+  --color-outline-strong: rgba(247, 242, 234, 0.24);
+  --glass-bg: rgba(18, 16, 14, 0.55);
+  --glass-bg-strong: rgba(18, 16, 14, 0.7);
+  --glass-border: rgba(247, 242, 234, 0.18);
+  --gradient-bg:
+    radial-gradient(
+      1100px 600px at 8% -10%,
+      rgba(217, 130, 43, 0.1),
+      transparent 60%
+    ),
+    radial-gradient(
+      900px 500px at 90% 10%,
+      rgba(27, 109, 92, 0.09),
+      transparent 55%
+    );
+  --pattern-grid:
+    linear-gradient(
+      transparent 0 98%,
+      rgba(247, 242, 234, 0.06) 98% 100%
+    ),
+    linear-gradient(
+      90deg,
+      transparent 0 98%,
+      rgba(247, 242, 234, 0.06) 98% 100%
+    );
+  --pattern-size: 56px;
+}

@@ -43,3 +43,10 @@
 .tools-grid .card {
   height: 100%;
 }
+
+@media (max-width: 640px) {
+  .tool-result {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}

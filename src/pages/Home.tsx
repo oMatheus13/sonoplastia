@@ -4,22 +4,23 @@ import SectionHeading from "../components/SectionHeading";
 import desbravadoresEmblema from "../assets/images/emblema-d1.svg";
 import badgeBase from "../assets/images/imagem@am045.png";
 import badgeAvancada from "../assets/images/imagem@am046.png";
+import { getCursoAppUrl } from "../utils/appUrls";
 
 const pillars = [
   {
     title: "Som de Fé",
     description:
-      "Curso completo com leitura guiada e aplicação prática no culto.",
+      "Conteúdo organizado em leitura guiada para revisar antes do culto.",
   },
   {
     title: "Ferramentas práticas",
     description:
-      "Calculadoras, checklists e fluxos para decisões rápidas na mesa.",
+      "Calculadoras, checklists e fluxos que aceleram a mesa.",
   },
   {
     title: "Biblioteca técnica",
     description:
-      "Templates e guias para padronizar equipe, palco e documentação.",
+      "Templates e guias usados para padronizar equipe, palco e documentação.",
   },
 ];
 
@@ -58,6 +59,8 @@ const destaques = [
 ];
 
 export default function Home() {
+  const cursoAppUrl = getCursoAppUrl();
+
   return (
     <div className="page home">
       <section className="hero">
@@ -66,29 +69,29 @@ export default function Home() {
             <p className="eyebrow">Central de sonoplastia</p>
             <h1>Som ao vivo claro, organizado e confiável.</h1>
             <p className="lead">
-              Som de Fé reúne curso completo, ferramentas e biblioteca para
-              apoiar operadores de som em igrejas com foco na prática semanal.
+              Som de Fé reúne conteúdo organizado, ferramentas e biblioteca
+              alinhados com a rotina de quem opera som ao vivo em igrejas.
             </p>
             <div className="hero-actions">
               <Link className="btn btn-primary" to="/ferramentas">
                 Explorar ferramentas
               </Link>
-              <Link className="btn btn-secondary" to="/curso/som-de-fe">
-                Entrar no Som de Fé
-              </Link>
+              <a className="btn btn-secondary" href={cursoAppUrl}>
+                Abrir Som de Fé
+              </a>
             </div>
             <div className="hero-stats">
               <div>
                 <p className="stat">10</p>
-                <p className="text-muted">Módulos do curso</p>
+                <p className="text-muted">Módulos organizados</p>
               </div>
               <div>
                 <p className="stat">17</p>
-                <p className="text-muted">Capítulos completos</p>
+                <p className="text-muted">Capítulos catalogados</p>
               </div>
               <div>
                 <p className="stat">6</p>
-                <p className="text-muted">Recursos na biblioteca</p>
+                <p className="text-muted">Recursos prontos</p>
               </div>
             </div>
           </div>
@@ -148,9 +151,9 @@ export default function Home() {
               <Link className="btn btn-primary" to="/especialidades">
                 Ver especialidades
               </Link>
-              <Link className="btn btn-ghost" to="/curso/som-de-fe">
+              <a className="btn btn-ghost" href={cursoAppUrl}>
                 Abrir Som de Fé
-              </Link>
+              </a>
             </div>
           </div>
           <div className="desbravadores-card">
@@ -232,10 +235,10 @@ export default function Home() {
         <div className="container callout-grid">
           <div>
             <p className="eyebrow">Som de Fé</p>
-            <h2>Treine sua equipe com conteúdo técnico estruturado.</h2>
+            <h2>Use como caderno técnico para estudar em equipe.</h2>
             <p className="text-muted">
               A trilha cobre fundamentos, microfones, mixagem, acústica e
-              operação. Conteúdo pensado para equipes voluntárias e técnicas.
+              operação. Tudo em blocos curtos para revisar na semana.
             </p>
           </div>
           <div className="callout-actions">

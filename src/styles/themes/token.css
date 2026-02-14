@@ -1,0 +1,43 @@
+:root {
+  color-scheme: light;
+}
+
+.token-surface {
+  background: var(--color-surface);
+}
+
+.token-surface-strong {
+  background: var(--color-surface-strong);
+}
+
+.token-ink {
+  color: var(--color-ink);
+}
+
+.token-muted {
+  color: var(--color-muted);
+}
+
+.token-accent {
+  color: var(--color-accent);
+}
+
+.token-accent-2 {
+  color: var(--color-accent-2);
+}
+
+.token-outline {
+  border-color: var(--color-outline);
+}
+
+.token-outline-strong {
+  border-color: var(--color-outline-strong);
+}
+
+.token-shadow-sm {
+  box-shadow: var(--shadow-sm);
+}
+
+.token-shadow-md {
+  box-shadow: var(--shadow-md);
+}

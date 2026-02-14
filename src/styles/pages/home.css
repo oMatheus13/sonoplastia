@@ -54,7 +54,7 @@
 }
 
 .section-alt .card {
-  background: #fff;
+  background: var(--color-surface);
 }
 
 .desbravadores-section {
@@ -136,4 +136,41 @@
   display: flex;
   flex-wrap: wrap;
   gap: var(--space-3);
+}
+
+@media (max-width: 720px) {
+  .page {
+    gap: var(--space-6);
+  }
+
+  .hero {
+    padding: var(--space-7) 0;
+  }
+
+  .hero-compact {
+    padding: var(--space-6) 0;
+  }
+
+  .hero-actions,
+  .callout-actions {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .hero-actions .btn,
+  .callout-actions .btn {
+    width: 100%;
+  }
+
+  .hero-stats {
+    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+  }
+
+  .hero-grid {
+    gap: var(--space-5);
+  }
+
+  .hero-card {
+    padding: var(--space-5);
+  }
 }

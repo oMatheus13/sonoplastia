@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useState } from "react";
-import { Link, useSearchParams } from "react-router-dom";
+import { useSearchParams } from "react-router-dom";
 import CursoIcon from "../components/CursoIcon";
 import { cursoChapters } from "../data/curso";
 import { cursoFigurasByChapter } from "../data/cursoFiguras";
@@ -10,6 +10,7 @@ import {
   cursoAulasByChapter,
   getAulasForChapters,
 } from "../utils/cursoUtils";
+import { getSiteUrl } from "../utils/appUrls";
 
 const STORAGE_KEY = "som-de-fe-progress-v2";
 
@@ -60,6 +61,7 @@ export default function CursoApp() {
     [completedLessons]
   );
   const progress = getProgress(totalLessons, completedCount);
+  const siteCursoUrl = getSiteUrl("/curso");
 
   const chapter = cursoChapters.find((item) => item.number === activeChapter);
   const chapterLessons = cursoAulasByChapter[activeChapter] ?? [];
@@ -122,9 +124,9 @@ export default function CursoApp() {
               <p className="text-muted">
                 {completedCount}/{totalLessons} aulas concluídas ({progress}%)
               </p>
-              <Link className="btn btn-ghost" to="/curso">
+              <a className="btn btn-ghost" href={siteCursoUrl}>
                 Voltar para apresentação
-              </Link>
+              </a>
             </div>
           </div>
 

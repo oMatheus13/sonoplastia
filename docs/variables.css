@@ -2,41 +2,67 @@
   /* ========================= */
   /* OPUS NEUTRAL */
   /* ========================= */
-  --color-cloud: #f6f3ee;
-  --color-black: #1f1a16;
-  --color-white: #fff;
+  --color-cloud: #f6f3ee; /* Branco de fundo do app e textos em fundo opus black */
+  --color-black: #1f1a16; /* Preto de fundo do app e textos em fundo opus cloud */
+
+  --color-white: #fff; /* Branco puro de apoio */
 
   /* ========================= */
-  /* OPUS BLUE SYSTEM (warm neutral) */
+  /* OPUS BLUE SYSTEM */
   /* ========================= */
+
+  /* Thin - quase invisivel, fundos extremamente suaves */
   --color-blue-100: #f0ede9;
+
+  /* Extra Light - fundo leve de badge, highlight discreto */
   --color-blue-200: #ded6cd;
+
+  /* Light - hover suave, detalhes pequenos */
   --color-blue-300: #c2b5a9;
+
+  /* Regular Ligth - Para aplicar em fundos escuros no lugar da principal em fundos claros */
   --color-blue-400: #a19387;
+
+  /* Regular - COR PRINCIPAL */
   --color-blue-500: #5d534a;
+
+  /* Medium - estado ativo mais forte */
   --color-blue-600: #4f463f;
+
+  /* SemiBold - botao pressionado, foco */
   --color-blue-700: #413830;
+
+  /* Bold - estrutura, borda forte, destaque denso */
   --color-blue-800: #342d26;
+
+  /* ExtraBold - quase navy tecnico, fundo escuro premium */
   --color-blue-900: #241f1a;
 
   /* ========================= */
   /* OPUS OLIVA / POSITIVO */
   /* ========================= */
+
+  /* Light - fundo suave de sucesso */
   --color-olive-200: #a7cbbf;
+
+  /* Regular - saldo positivo, progresso */
   --color-olive-500: #1b6d5c;
+
+  /* Bold - destaque forte de meta atingida */
   --color-olive-700: #135245;
 
   /* ========================= */
   /* OPUS AMBAR / ACAO */
   /* ========================= */
-  --color-amber-200: #f2c29a;
-  --color-amber-500: #d9822b;
-  --color-amber-700: #b46a23;
 
-  /* Glass surfaces */
-  --glass-bg: rgba(246, 243, 238, 0.42);
-  --glass-bg-strong: rgba(246, 243, 238, 0.6);
-  --glass-border: rgba(95, 92, 89, 0.16);
+  /* Light - aviso suave */
+  --color-amber-200: #f2c29a;
+
+  /* Regular - CTA secundario, alerta estrategico */
+  --color-amber-500: #d9822b;
+
+  /* Bold - acao critica controlada */
+  --color-amber-700: #b46a23;
 
   /* Typography */
   --font-family-primary: "ClashDisplay";
@@ -100,7 +126,7 @@
   --border-radius-xl: 22px;
   --border-radius-2xl: 28px;
   --border-radius-full: 9999px;
-  --border-thin: 1px solid var(--color-outline);
+  --border-thin: 1px solid var(--color-line);
 
   /* Bezel (chamfer) */
   --bezel-xs: 6px;
@@ -119,9 +145,9 @@
   );
 
   /* Shadows */
-  --box-shadow-sm: 0 12px 30px rgba(31, 26, 22, 0.08);
-  --box-shadow-md: 0 20px 40px rgba(31, 26, 22, 0.12);
-  --box-shadow-lg: 0 18px 40px rgba(31, 26, 22, 0.12);
+  --box-shadow-sm: 0 6px 16px rgba(15, 17, 22, 0.06);
+  --box-shadow-md: 0 12px 28px rgba(15, 17, 22, 0.08);
+  --box-shadow-lg: 0 18px 40px rgba(15, 17, 22, 0.12);
 
   /* Transitions */
   --transition-fast: 0.15s ease;
@@ -141,71 +167,4 @@
   /* Textures */
   --texture-noise: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120"><defs><filter id="noise"><feTurbulence baseFrequency="0.8" numOctaves="3" stitchTiles="stitch"/></filter></defs><rect width="100%" height="100%" filter="url(%23noise)" opacity="0.05"/></svg>');
   --texture-paper: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="180" height="180" viewBox="0 0 180 180"><defs><filter id="paper"><feTurbulence baseFrequency="0.035" numOctaves="4" seed="1"/></filter></defs><rect width="100%" height="100%" filter="url(%23paper)" opacity="0.04"/></svg>');
-
-  /* ========================= */
-  /* Legacy tokens used by the UI */
-  /* ========================= */
-  --page-width: 1120px;
-  --header-height: 80px;
-  --floating-nav-height: 80px;
-
-  --font-sans: var(--font-family-secondary), "Segoe UI", sans-serif;
-  --font-display: var(--font-family-primary), var(--font-family-secondary),
-    "Segoe UI", sans-serif;
-  --text-base: var(--font-size-base);
-  --text-sm: var(--font-size-sm);
-  --text-lg: var(--font-size-lg);
-
-  --space-1: 0.25rem;
-  --space-2: 0.5rem;
-  --space-3: 0.75rem;
-  --space-4: 1rem;
-  --space-5: 1.5rem;
-  --space-6: 2rem;
-  --space-7: 2.5rem;
-  --space-8: 3rem;
-  --space-9: 4rem;
-  --space-10: 5rem;
-
-  --radius-sm: 10px;
-  --radius-md: 16px;
-  --radius-lg: 24px;
-  --radius-pill: 999px;
-
-  --shadow-sm: var(--box-shadow-sm);
-  --shadow-md: var(--box-shadow-md);
-
-  --transition-base: var(--transition-normal);
-
-  --color-bg: var(--color-cloud);
-  --color-surface: #fffdf9;
-  --color-surface-strong: #f2ece3;
-  --color-ink: var(--color-black);
-  --color-muted: #5d534a;
-  --color-accent: var(--color-amber-500);
-  --color-accent-2: var(--color-olive-500);
-  --color-outline: rgba(31, 26, 22, 0.12);
-  --color-outline-strong: rgba(31, 26, 22, 0.2);
-  --gradient-bg:
-    radial-gradient(
-      1100px 600px at 8% -10%,
-      rgba(217, 130, 43, 0.18),
-      transparent 60%
-    ),
-    radial-gradient(
-      900px 500px at 90% 10%,
-      rgba(27, 109, 92, 0.15),
-      transparent 55%
-    );
-  --pattern-grid:
-    linear-gradient(
-      transparent 0 98%,
-      rgba(31, 26, 22, 0.05) 98% 100%
-    ),
-    linear-gradient(
-      90deg,
-      transparent 0 98%,
-      rgba(31, 26, 22, 0.05) 98% 100%
-    );
-  --pattern-size: 56px;
 }

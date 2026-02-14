@@ -5,6 +5,8 @@
   }
 
   .site-header,
+  .app-header,
+  .floating-nav,
   .site-footer,
   .btn {
     display: none !important;

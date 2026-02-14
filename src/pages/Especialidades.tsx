@@ -5,6 +5,7 @@ import {
   especialidades,
 } from "../data/especialidades";
 import { especialidadesRespostas } from "../data/especialidadesRespostas";
+import { getCursoAppUrl } from "../utils/appUrls";
 
 const getThemeStyle = (primary: string, secondary: string) =>
   ({
@@ -26,6 +27,7 @@ export default function Especialidades() {
   const respostasPorEspecialidade = new Map(
     especialidadesRespostas.map((item) => [item.id, item])
   );
+  const cursoAppUrl = getCursoAppUrl();
 
   return (
     <div className="page especialidades">
@@ -160,11 +162,11 @@ export default function Especialidades() {
                             {req.references.map((ref, index) => (
                               <span key={`${req.id}-${ref.chapter}`}>
                                 {index > 0 ? " • " : " "}
-                                <Link
-                                  to={`/curso/som-de-fe?capitulo=${ref.chapter}`}
+                                <a
+                                  href={getCursoAppUrl(`?capitulo=${ref.chapter}`)}
                                 >
                                   {ref.label}
-                                </Link>
+                                </a>
                               </span>
                             ))}
                           </span>
@@ -190,11 +192,13 @@ export default function Especialidades() {
                                   {item.references.map((ref, index) => (
                                     <span key={`${item.text}-${ref.chapter}`}>
                                       {index > 0 ? " • " : " "}
-                                      <Link
-                                        to={`/curso/som-de-fe?capitulo=${ref.chapter}`}
+                                      <a
+                                        href={getCursoAppUrl(
+                                          `?capitulo=${ref.chapter}`
+                                        )}
                                       >
                                         {ref.label}
-                                      </Link>
+                                      </a>
                                     </span>
                                   ))}
                                 </span>
@@ -241,14 +245,14 @@ export default function Especialidades() {
             <p className="eyebrow">Som de Fé</p>
             <h2>Som de Fé como base de estudo.</h2>
             <p className="text-muted">
-              A estrutura do curso apoia líderes e instrutores. As
+              A estrutura do material apoia líderes e instrutores. As
               especialidades seguem o mesmo roteiro.
             </p>
           </div>
           <div className="callout-actions">
-            <Link className="btn btn-secondary" to="/curso/som-de-fe">
+            <a className="btn btn-secondary" href={cursoAppUrl}>
               Abrir Som de Fé
-            </Link>
+            </a>
             <Link className="btn btn-ghost" to="/curso">
               Ver apresentação
             </Link>

@@ -4,6 +4,7 @@ import SectionHeading from "../components/SectionHeading";
 import { cursoChapters } from "../data/curso";
 import { cursoModulos } from "../data/cursoModulos";
 import { cursoAulasByChapter } from "../utils/cursoUtils";
+import { getCursoAppUrl } from "../utils/appUrls";
 
 const totalTopics = cursoChapters.reduce(
   (total, chapter) => total + chapter.topics.length,
@@ -23,7 +24,7 @@ const destaques = [
   {
     title: "Leitura guiada",
     description:
-      "Capítulos transformados em aulas para estudo contínuo.",
+      "Capítulos convertidos em aulas curtas para consulta rápida.",
   },
   {
     title: "Fiel ao material base",
@@ -65,21 +66,23 @@ const estudo = [
 ];
 
 export default function Curso() {
+  const cursoAppUrl = getCursoAppUrl();
+
   return (
     <div className="page curso">
       <section className="hero hero-compact">
         <div className="container hero-grid">
           <div className="hero-content">
             <p className="eyebrow">Som de Fé</p>
-            <h1>Som de Fé: curso de sonorização ao vivo para igrejas.</h1>
+            <h1>Som de Fé: conteúdo organizado para som ao vivo em igrejas.</h1>
             <p className="lead">
               Conteúdo fiel ao material original, reorganizado em módulos,
               capítulos e aulas para estudo semanal.
             </p>
             <div className="hero-actions">
-              <Link className="btn btn-primary" to="/curso/som-de-fe">
-                Entrar no app do curso
-              </Link>
+              <a className="btn btn-primary" href={cursoAppUrl}>
+                Abrir app do curso
+              </a>
               <a className="btn btn-secondary" href="#indice">
                 Ver índice geral
               </a>
@@ -109,8 +112,8 @@ export default function Curso() {
               <cite>Rom 10:17</cite>
             </blockquote>
             <p className="text-muted">
-              Som de Fé nasce para garantir que cada mensagem seja ouvida com
-              clareza e respeito.
+              Este material ajuda a manter cada mensagem audível com clareza e
+              respeito.
             </p>
           </div>
         </div>
@@ -119,8 +122,8 @@ export default function Curso() {
       <section className="section">
         <div className="container">
           <SectionHeading
-            eyebrow="O que torna este curso único"
-            title="Organizado para estudo contínuo e prática real."
+            eyebrow="Como o material foi organizado"
+            title="Estrutura pensada para estudo contínuo e prática real."
           />
           <div className="grid grid-3">
             {destaques.map((item) => (
@@ -233,16 +236,16 @@ export default function Curso() {
         <div className="container callout-grid">
           <div>
             <p className="eyebrow">App do curso</p>
-            <h2>Leitura guiada com progresso e conteúdo completo.</h2>
+            <h2>Leitura guiada com progresso por aula e capítulo.</h2>
             <p className="text-muted">
-              Acompanhe capítulos, marque o que já concluiu e use o curso como
-              roteiro semanal de estudo.
+              Acompanhe capítulos, marque o que já concluiu e use o material
+              como roteiro semanal de estudo.
             </p>
           </div>
           <div className="callout-actions">
-            <Link className="btn btn-secondary" to="/curso/som-de-fe">
+            <a className="btn btn-secondary" href={cursoAppUrl}>
               Abrir app do curso
-            </Link>
+            </a>
             <Link className="btn btn-ghost" to="/biblioteca">
               Ver biblioteca técnica
             </Link>

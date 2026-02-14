@@ -1,5 +1,7 @@
 @import "./base/index.css";
-@import "./theme/index.css";
+@import "./themes/token.css";
+@import "./themes/light.css";
+@import "./themes/dark.css";
 @import "./utilities/index.css";
 @import "./componentes/index.css";
 @import "./layouts/index.css";

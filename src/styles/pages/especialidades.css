@@ -228,3 +228,29 @@
     font-size: 0.8rem;
   }
 }
+
+@media (max-width: 720px) {
+  .especialidade-header {
+    padding: var(--space-4);
+  }
+
+  .especialidade-logo img {
+    width: 80px;
+  }
+
+  .especialidade-badge img {
+    width: 90px;
+  }
+
+  .especialidade-table {
+    overflow-x: auto;
+  }
+
+  .especialidade-table table {
+    min-width: 420px;
+  }
+
+  .especialidade-list {
+    padding-left: var(--space-4);
+  }
+}
