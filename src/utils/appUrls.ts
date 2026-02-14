@@ -1,7 +1,7 @@
 export type AppContext = "site" | "curso" | "mensagens";
 
-const COURSE_SUBDOMAIN = "curso";
-const MENSAGENS_SUBDOMAIN = "mensagens";
+const COURSE_SUBDOMAIN = "curso.sonoplastia";
+const MENSAGENS_SUBDOMAIN = "mesalink.sonoplastia";
 
 const normalizeUrl = (value?: string) => (value ? value.replace(/\/$/, "") : "");
 
