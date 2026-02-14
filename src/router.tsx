@@ -5,6 +5,7 @@ import Biblioteca from "./pages/Biblioteca";
 import Curso from "./pages/Curso";
 import Ferramentas from "./pages/Ferramentas";
 import Home from "./pages/Home";
+import Mensagens from "./pages/Mensagens";
 import NotFound from "./pages/NotFound";
 
 const CursoApp = lazy(() => import("./pages/CursoApp"));
@@ -27,6 +28,7 @@ export function AppRoutes() {
           <Route path="curso" element={<Curso />} />
           <Route path="curso/som-de-fe" element={<CursoApp />} />
           <Route path="ferramentas" element={<Ferramentas />} />
+          <Route path="mensagens" element={<Mensagens />} />
           <Route path="biblioteca" element={<Biblioteca />} />
           <Route path="especialidades" element={<Especialidades />} />
           <Route path="*" element={<NotFound />} />
