@@ -9,7 +9,9 @@
 }
 
 .app-layout-mensagens {
-  height: 100dvh;
+  height: 100vh;
+  height: 100svh;
+  height: var(--mesalink-vh, 100dvh);
   overflow: hidden;
 }
 
